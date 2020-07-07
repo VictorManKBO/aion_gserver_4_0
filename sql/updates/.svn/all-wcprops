@@ -1,0 +1,281 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/Romanz/dark/!svn/ver/45/trunk/gameserver/sql/updates
+END
+Rev 1451 - house_address_index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/Rev%201451%20-%20house_address_index.sql
+END
+Rev 642 - legion wh history.sql
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/Rev%20642%20-%20legion%20wh%20history.sql
+END
+Rev 5041 - players - new classes.sql
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/Rev%205041%20-%20players%20-%20new%20classes.sql
+END
+Rev 3873 - towns.sql
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/Rev%203873%20-%20towns.sql
+END
+Rev 647 - legion wh history.sql
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/Rev%20647%20-%20legion%20wh%20history.sql
+END
+Rev 1493 - player owner world.sql
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/Rev%201493%20-%20player%20owner%20world.sql
+END
+Rev 4755 - inventory_indexes.sql
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/Rev%204755%20-%20inventory_indexes.sql
+END
+Rev 2843 - inventory_slot (for 3.0 to 3.5 switch).sql
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/Rev%202843%20-%20inventory_slot%20(for%203.0%20to%203.5%20switch).sql
+END
+Rev 3118 house_object_paint.sql
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/Rev%203118%20house_object_paint.sql
+END
+Rev 1533 - house renovation.sql
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/Rev%201533%20-%20house%20renovation.sql
+END
+Rev 2152 - ingameshop.sql
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/Rev%202152%20-%20ingameshop.sql
+END
+Rev 3013 - registered_Items.sql
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/Rev%203013%20-%20registered_Items.sql
+END
+Rev 2666 - mail_sender.sql
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/Rev%202666%20-%20mail_sender.sql
+END
+Rev 2053 - add foreign keys.sql
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/Rev%202053%20-%20add%20foreign%20keys.sql
+END
+Rev 2914 - housing_changes (for 3.0 to 3.5 switch).sql
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/Rev%202914%20-%20housing_changes%20(for%203.0%20to%203.5%20switch).sql
+END
+Rev 972 - houses.sql
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/Rev%20972%20-%20houses.sql
+END
+Rev 489 - pet_buff_bag.sql
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/Rev%20489%20-%20pet_buff_bag.sql
+END
+Rev 2867 - tasks.sql
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/Rev%202867%20-%20tasks.sql
+END
+Rev 1068 - registered_items.sql
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/Rev%201068%20-%20registered_items.sql
+END
+Rev 219 - mail.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/Rev%20219%20-%20mail.sql
+END
+Rev 4672 - Mailbox.sql
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/Rev%204672%20-%20Mailbox.sql
+END
+Rev 3867 - challenge_tasks.sql
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/Rev%203867%20-%20challenge_tasks.sql
+END
+Rev 2685 - inventory_bonuses.sql
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/Rev%202685%20-%20inventory_bonuses.sql
+END
+Rev 4395 - ingameshop_log.sql
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/Rev%204395%20-%20ingameshop_log.sql
+END
+Rev 1685 - house_object_db_types.sql
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/Rev%201685%20-%20house_object_db_types.sql
+END
+Rev 4146 - skill_motions2.sql
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/Rev%204146%20-%20skill_motions2.sql
+END
+Rev 5220- idian_stones.sql
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/Rev%205220-%20idian_stones.sql
+END
+Rev 5447 - house sign notice.sql
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/Romanz/dark/!svn/ver/45/trunk/gameserver/sql/updates/Rev%205447%20-%20house%20sign%20notice.sql
+END
+Rev 3717 - use_delay.sql
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/Rev%203717%20-%20use_delay.sql
+END
+Rev 2444 - house_bids_pk.sql
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/Rev%202444%20-%20house_bids_pk.sql
+END
+Rev 2385 - legion.sql
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/Rev%202385%20-%20legion.sql
+END
+Rev 2830 - dye_expiration.sql
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/Rev%202830%20-%20dye_expiration.sql
+END
+Rev 5379 - house floors.sql
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/Rev%205379%20-%20house%20floors.sql
+END
+Rev 405 - pet_feeding.sql
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/Rev%20405%20-%20pet_feeding.sql
+END
+Rev 2348 - house_bids.sql
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/Rev%202348%20-%20house_bids.sql
+END
+Rev 1182 - house_scripts.sql
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/Rev%201182%20-%20house_scripts.sql
+END
+Rev 5227 - rndbonus.sql
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/Rev%205227%20-%20rndbonus.sql
+END
+Rev 1075 - registered_items.sql
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/Rev%201075%20-%20registered_items.sql
+END
+Rev 2177 - ingameshop.sql
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/Rev%202177%20-%20ingameshop.sql
+END
+Rev 1634 - house_object_cooldowns.sql
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/Rev%201634%20-%20house_object_cooldowns.sql
+END
+Rev 38 - quest_complete_time.sql
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/Rev%2038%20-%20quest_complete_time.sql
+END
+Rev 2270 - clean_test_houses.sql
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/Rev%202270%20-%20clean_test_houses.sql
+END
+Rev 4948 - pet_expiration.sql
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/Rev%204948%20-%20pet_expiration.sql
+END
+Rev 3144 - player_pets_feeding.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/Rev%203144%20-%20player_pets_feeding.sql
+END
+Rev 1482 - house_reg_items_enum.sql
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/Rev%201482%20-%20house_reg_items_enum.sql
+END
+Rev 5123 players_bonus_title.sql
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/Rev%205123%20players_bonus_title.sql
+END

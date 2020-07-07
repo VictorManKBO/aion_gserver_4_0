@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<in_game_shop xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="in_game_shop.xsd">
+<!-- can be more category -->
+<category id="0" name="SHOP">
+<sub_category id="3" name="Купоны"/>
+<sub_category id="4" name="Броня"/>
+<sub_category id="7" name="Крылья"/>
+<sub_category id="8" name="Тиамат"/>
+<sub_category id="9" name="Оружие"/>
+<sub_category id="12" name="Изменение вида"/>
+<sub_category id="13" name="Головные уборы"/>
+<sub_category id="14" name="Оружие лорда Балауров"/>
+<sub_category id="16" name="Валюта и прочее"/>
+<sub_category id="18" name="Петы"/>
+<sub_category id="20" name="Бижутерия"/>
+<sub_category id="19" name="Ездовые"/>
+</category>
+<category id="1" name="Коллекции">
+<sub_category id="3" name="Оружие Тахабаты"/>
+<sub_category id="4" name="Оружие Рудры"/>
+<sub_category id="5" name="Ниндзя"/>
+<sub_category id="6" name="Одрона"/>
+</category>
+<category id="2" name="Расходники">
+<sub_category id="3" name="Еда"/>
+<sub_category id="4" name="Свитки"/>
+<sub_category id="5" name="Конфеты"/>
+<sub_category id="6" name="Банки"/>
+</category>
+<category id="3" name="ПВП Снаряжение">
+<sub_category id="3" name="Оружие"/>
+<sub_category id="4" name="Броня"/>
+</category>
+<category id="4" name="Заточка">
+<sub_category id="3" name="Магические к."/>
+<sub_category id="4" name="Божественные к."/>
+<sub_category id="5" name="Волшебные к."/>
+<sub_category id="6" name="Катализаторы."/>
+<sub_category id="7" name="Компазиторы."/>
+</category>
+</in_game_shop>

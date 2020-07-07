@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/Romanz/dark/!svn/ver/14/trunk/gameserver/dist
+END
+StartGS.sh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/Romanz/dark/!svn/ver/14/trunk/gameserver/dist/StartGS.sh
+END
+StopGS.sh
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/Romanz/dark/!svn/ver/14/trunk/gameserver/dist/StopGS.sh
+END
+StartGS_loop.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/Romanz/dark/!svn/ver/14/trunk/gameserver/dist/StartGS_loop.sh
+END
+initialize.sh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/Romanz/dark/!svn/ver/14/trunk/gameserver/dist/initialize.sh
+END
+StartGS.bat
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/Romanz/dark/!svn/ver/14/trunk/gameserver/dist/StartGS.bat
+END
+PanelGS.bat
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/Romanz/dark/!svn/ver/14/trunk/gameserver/dist/PanelGS.bat
+END

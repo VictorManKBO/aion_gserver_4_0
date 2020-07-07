@@ -1,0 +1,1972 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spawns>
+	<spawn_map map_id="600050000">
+		<base_spawn id="6050"> <!-- Occupier's Lounge -->
+			<simple_race race="ELYOS">
+				<spawn npc_id="800648">
+					<spot x="224.781403" y="845.066772" z="212.116058"/>
+				</spawn>
+				<spawn npc_id="800649">
+					<spot x="234.900940" y="849.028625" z="212.117798"/>
+				</spawn>
+				<spawn npc_id="800650">
+					<spot x="238.594452" y="828.978333" z="212.100815"/>
+				</spawn>
+				<spawn npc_id="800651">
+					<spot x="230.125443" y="847.494629" z="212.187653"/>
+				</spawn>
+				<spawn npc_id="801230">
+					<spot x="233.286743" y="829.948792" z="212.116058"/>
+				</spawn>
+				<!-- Mailbox -->
+				<spawn npc_id="700000">
+					<spot h="7" z="210.875" y="838.7595" x="226.03023"/>
+				</spawn>
+				<!-- Guard -->
+				<spawn npc_id="232194">
+					<spot h="14" z="206.22293" y="858.212" x="265.11057"/>
+					<spot h="16" z="208.09145" y="847.01154" x="263.30276"/>
+					<spot h="16" z="210.75" y="837.79926" x="251.54773"/>
+				</spawn>
+				<spawn npc_id="232195">
+					<spot h="14" z="210.875" y="841.9557" x="242.3912"/>
+				</spawn>
+				<spawn npc_id="232196">
+					<spot h="27" z="206.64508" y="844.2679" x="270.57153"/>
+				</spawn>
+				<spawn npc_id="232197">
+					<spot h="8" z="210.875" y="850.7759" x="246.02426"/>
+				</spawn>
+				<!-- Occupation Pioneers Combatant -->
+				<spawn npc_id="232540" respawn_time="295">
+					<spot x="341.57086" y="805.5557" z="212.2917" h="67"/>
+					<spot x="343.83008" y="803.52545" z="211.97034" h="75"/>
+					<spot x="349.01355" y="809.7841" z="212.375" h="75"/>
+					<spot x="357.41684" y="796.03326" z="213.80418" h="60"/>
+				</spawn>
+				<!-- Occupation Pioneers Sentry -->
+				<spawn npc_id="232541" respawn_time="295">
+					<spot x="346.04062" y="798.0702" z="212.49815" h="83"/>
+				</spawn>
+				<!-- Occupation Pioneers Supervisor -->
+				<spawn npc_id="232542" respawn_time="295">
+					<spot x="360.58167" y="804.8558" z="214.75" h="70"/>
+				</spawn>
+				<!-- Occupation Scout Envoy -->
+				<spawn npc_id="233213" respawn_time="295">
+					<spot x="310.20142" y="777.4769" z="211.60997" h="75"/>
+					<spot x="310.9674" y="799.4344" z="209.47697" h="63"/>
+					<spot x="327.16528" y="815.43646" z="214.85725" h="67"/>
+					<spot x="332.74307" y="786.9046" z="212.45538" h="90"/>
+				</spawn>
+				<!-- Elyos Territory -->
+				<spawn npc_id="801600">
+					<spot x="225.67972" y="835.3145" z="216.086"/>
+				</spawn>
+				<!-- Territory Boss -->
+				<spawn npc_id="231630" handler="BOSS">
+					<spot x="233.54507" y="835.1746" z="210.875" h="10"/>
+				</spawn>
+				<spawn npc_id="231867" handler="ATTACKER">
+					<spot x="233.54507" y="835.1746" z="210.875" h="10"/>
+				</spawn>
+			</simple_race>
+			<simple_race race="ASMODIANS">
+				<spawn npc_id="800652">
+					<spot x="224.781403" y="845.066772" z="212.116058"/>
+				</spawn>
+				<spawn npc_id="800654">
+					<spot x="238.594452" y="828.978333" z="212.100815"/>
+				</spawn>
+				<spawn npc_id="800653">
+					<spot x="234.900940" y="849.028625" z="212.117798"/>
+				</spawn>
+				<spawn npc_id="800655">
+					<spot x="230.125443" y="847.494629" z="212.187653"/>
+				</spawn>
+				<spawn npc_id="801239">
+					<spot x="233.286743" y="829.948792" z="212.116058"/>
+				</spawn>
+				<!-- Mailbox -->
+				<spawn npc_id="700079">
+					<spot h="7" z="210.875" y="838.7595" x="226.03023"/>
+				</spawn>
+				<!-- Guard -->
+				<spawn npc_id="232289">
+					<spot h="14" z="206.22293" y="858.212" x="265.11057"/>
+					<spot h="16" z="208.09145" y="847.01154" x="263.30276"/>
+					<spot h="16" z="210.75" y="837.79926" x="251.54773"/>
+				</spawn>
+				<spawn npc_id="232290">
+					<spot h="14" z="210.875" y="841.9557" x="242.3912"/>
+				</spawn>
+				<spawn npc_id="232291">
+					<spot h="27" z="206.64508" y="844.2679" x="270.57153"/>
+				</spawn>
+				<spawn npc_id="232292">
+					<spot h="8" z="210.875" y="850.7759" x="246.02426"/>
+				</spawn>
+				<!-- Occupation Pioneers Combatant -->
+				<spawn npc_id="232479" respawn_time="295">
+					<spot x="341.57086" y="805.5557" z="212.2917" h="67"/>
+					<spot x="343.83008" y="803.52545" z="211.97034" h="75"/>
+					<spot x="349.01355" y="809.7841" z="212.375" h="75"/>
+					<spot x="357.41684" y="796.03326" z="213.80418" h="60"/>
+				</spawn>
+				<!-- Occupation Pioneers Sentry -->
+				<spawn npc_id="232480" respawn_time="295">
+					<spot x="346.04062" y="798.0702" z="212.49815" h="83"/>
+				</spawn>
+				<!-- Occupation Pioneers Supervisor -->
+				<spawn npc_id="232481" respawn_time="295">
+					<spot x="360.58167" y="804.8558" z="214.75" h="70"/>
+				</spawn>
+				<!-- Occupation Scout Envoy -->
+				<spawn npc_id="233194" respawn_time="295">
+					<spot x="310.20142" y="777.4769" z="211.60997" h="75"/>
+					<spot x="310.9674" y="799.4344" z="209.47697" h="63"/>
+					<spot x="327.16528" y="815.43646" z="214.85725" h="67"/>
+					<spot x="332.74307" y="786.9046" z="212.45538" h="90"/>
+				</spawn>
+				<!-- Asmodians Territory -->
+				<spawn npc_id="801601">
+					<spot x="225.67972" y="835.3145" z="216.086"/>
+				</spawn>
+				<!-- Territory Boss -->
+				<spawn npc_id="231631" handler="BOSS">
+					<spot x="233.54507" y="835.1746" z="210.875" h="10"/>
+				</spawn>
+				<spawn npc_id="231868" handler="ATTACKER">
+					<spot x="233.54507" y="835.1746" z="210.875" h="10"/>
+				</spawn>
+			</simple_race>
+			<simple_race race="NPC">
+				<!-- Guard
+				<spawn npc_id="232384">
+					<spot h="14" z="206.22293" y="858.212" x="265.11057"/>
+					<spot h="16" z="208.09145" y="847.01154" x="263.30276"/>
+					<spot h="16" z="210.75" y="837.79926" x="251.54773"/>
+				</spawn>
+				<spawn npc_id="232385">
+					<spot h="14" z="210.875" y="841.9557" x="242.3912"/>
+				</spawn>
+				<spawn npc_id="232386">
+					<spot h="27" z="206.64508" y="844.2679" x="270.57153"/>
+				</spawn>
+				<spawn npc_id="232387">
+					<spot h="8" z="210.875" y="850.7759" x="246.02426"/>
+				</spawn> -->
+				<!-- Pioneers
+				<spawn npc_id="232662" respawn_time="295">
+					<spot x="341.57086" y="805.5557" z="212.2917" h="67"/>
+					<spot x="343.83008" y="803.52545" z="211.97034" h="75"/>
+					<spot x="349.01355" y="809.7841" z="212.375" h="75"/>
+					<spot x="357.41684" y="796.03326" z="213.80418" h="60"/>
+				</spawn>
+				<spawn npc_id="232663" respawn_time="295">
+					<spot x="346.04062" y="798.0702" z="212.49815" h="83"/>
+				</spawn>
+				<spawn npc_id="232664" respawn_time="295">
+					<spot x="360.58167" y="804.8558" z="214.75" h="70"/>
+				</spawn> -->
+				<!-- Balaur Territory -->
+				<spawn npc_id="801602">
+					<spot x="225.67972" y="835.3145" z="216.086"/>
+				</spawn>
+				<!-- Territory Boss -->
+				<spawn npc_id="231632" handler="BOSS">
+					<spot x="233.54507" y="835.1746" z="210.875" h="10"/>
+				</spawn>
+				<spawn npc_id="231868" handler="ATTACKER">
+					<spot x="233.54507" y="835.1746" z="210.875" h="10"/>
+				</spawn>
+			</simple_race>
+		</base_spawn>
+		<base_spawn id="6051"> <!-- Spiralroot Shelter -->
+			<simple_race race="ELYOS">
+				<spawn npc_id="800656">
+					<spot x="143.143539" y="2204.736816" z="184.668823"/>
+				</spawn>
+				<spawn npc_id="800657">
+					<spot x="127.503754" y="2196.208008" z="185.512955"/>
+				</spawn>
+				<spawn npc_id="800658">
+					<spot x="150.247284" y="2194.726563" z="184.683334"/>
+				</spawn>
+				<spawn npc_id="800659">
+					<spot x="129.043991" y="2200.937744" z="184.701935"/>
+				</spawn>
+				<spawn npc_id="801231">
+					<spot x="150.054428" y="2207.230225" z="184.665039"/>
+				</spawn>
+				<!-- Mailbox -->
+				<spawn npc_id="700000">
+					<spot h="70" z="184.125" y="2204.0168" x="153.63945"/>
+				</spawn>
+				<!-- Guard -->
+				<spawn npc_id="232199">
+					<spot h="86" z="183.23334" y="2165.0718" x="153.12955"/>
+					<spot h="87" z="184.09056" y="2183.449" x="134.13643"/>
+					<spot h="102" z="183.375" y="2170.142" x="142.59125"/>
+				</spawn>
+				<spawn npc_id="232200">
+					<spot h="98" z="184.125" y="2191.629" x="138.13582"/>
+				</spawn>
+				<spawn npc_id="232201">
+					<spot h="99" z="183.75668" y="2161.4822" x="135.89305"/>
+				</spawn>
+				<spawn npc_id="232202">
+					<spot h="97" z="184.125" y="2185.2588" x="144.84865"/>
+				</spawn>
+				<!-- Spiralroot Pioneers Combatant -->
+				<spawn npc_id="232543" respawn_time="295">
+					<spot x="100.0275" y="2076.6719" z="199.375"/>
+					<spot x="107.77772" y="2080.443" z="199.2777"/>
+					<spot x="112.57596" y="2074.2969" z="199.089" h="7"/>
+					<spot x="120.98116" y="2069.4023" z="199.48706"/>
+				</spawn>
+				<!-- Spiralroot Pioneers Sentry -->
+				<spawn npc_id="232544" respawn_time="295">
+					<spot x="103.96162" y="2070.2344" z="199.375" h="15"/>
+				</spawn>
+				<!-- Spiralroot Pioneers Supervisor -->
+				<spawn npc_id="232545" respawn_time="295">
+					<spot x="117.35558" y="2086.8823" z="198.24583" h="7"/>
+				</spawn>
+				<!-- Spiralroot Scout Envoy -->
+				<spawn npc_id="233214" respawn_time="295">
+					<spot x="119.48136" y="2045.8839" z="202.59984" h="105"/>
+					<spot x="129.18507" y="2073.3103" z="198.15361"/>
+					<spot x="129.37373" y="2097.1792" z="196.10527" h="5"/>
+					<spot x="142.62987" y="2112.1824" z="191.35287" h="10"/>
+				</spawn>
+				<!-- Elyos Territory -->
+				<spawn npc_id="801603">
+					<spot x="138.16624" y="2208.9534" z="192.916"/>
+				</spawn>
+				<!-- Territory Boss -->
+				<spawn npc_id="231633" handler="BOSS">
+					<spot x="137.43071" y="2201.1826" z="184.125" h="90"/>
+				</spawn>
+				<!-- Spiralroot Garrison Shieldcaptain -->
+				<spawn npc_id="231870" handler="ATTACKER">
+					<spot x="111.5267" y="2118.1604" z="183.5000" h="10"/>
+				</spawn>
+				<!-- Spiralroot Garrison Assassin -->
+				<spawn npc_id="232140" handler="ATTACKER">
+					<spot x="140.2245" y="2201.2441" z="184.125" h="60"/>
+					<spot x="134.62091" y="2201.6545" z="184.125"/>
+				</spawn>
+			</simple_race>
+			<simple_race race="ASMODIANS">
+				<spawn npc_id="800660">
+					<spot x="143.143539" y="2204.736816" z="184.668823"/>
+				</spawn>
+				<spawn npc_id="800661">
+					<spot x="127.503754" y="2196.208008" z="185.512955"/>
+				</spawn>
+				<spawn npc_id="800662">
+					<spot x="150.247284" y="2194.726563" z="184.683334"/>
+				</spawn>
+				<spawn npc_id="800663">
+					<spot x="129.043991" y="2200.937744" z="184.701935"/>
+				</spawn>
+				<spawn npc_id="801240">
+					<spot x="150.054428" y="2207.230225" z="184.665039"/>
+				</spawn>
+				<!-- Mailbox -->
+				<spawn npc_id="700079">
+					<spot h="70" z="184.125" y="2204.0168" x="153.63945"/>
+				</spawn>
+				<!-- Guard -->
+				<spawn npc_id="232294">
+					<spot h="86" z="183.23334" y="2165.0718" x="153.12955"/>
+					<spot h="87" z="184.09056" y="2183.449" x="134.13643"/>
+					<spot h="102" z="183.375" y="2170.142" x="142.59125"/>
+				</spawn>
+				<spawn npc_id="232295">
+					<spot h="98" z="184.125" y="2191.629" x="138.13582"/>
+				</spawn>
+				<spawn npc_id="232296">
+					<spot h="99" z="183.75668" y="2161.4822" x="135.89305"/>
+				</spawn>
+				<spawn npc_id="232297">
+					<spot h="97" z="184.125" y="2185.2588" x="144.84865"/>
+				</spawn>
+				<!-- Spiralroot Pioneers Combatant -->
+				<spawn npc_id="232482" respawn_time="295">
+					<spot x="100.0275" y="2076.6719" z="199.375"/>
+					<spot x="107.77772" y="2080.443" z="199.2777"/>
+					<spot x="112.57596" y="2074.2969" z="199.089" h="7"/>
+					<spot x="120.98116" y="2069.4023" z="199.48706"/>
+				</spawn>
+				<!-- Spiralroot Pioneers Sentry -->
+				<spawn npc_id="232483" respawn_time="295">
+					<spot x="103.96162" y="2070.2344" z="199.375" h="15"/>
+				</spawn>
+				<!-- Spiralroot Pioneers Supervisor -->
+				<spawn npc_id="232484" respawn_time="295">
+					<spot x="117.35558" y="2086.8823" z="198.24583" h="7"/>
+				</spawn>
+				<!-- Spiralroot Scout Envoy -->
+				<spawn npc_id="233195" respawn_time="295">
+					<spot x="119.48136" y="2045.8839" z="202.59984" h="105"/>
+					<spot x="129.18507" y="2073.3103" z="198.15361"/>
+					<spot x="129.37373" y="2097.1792" z="196.10527" h="5"/>
+					<spot x="142.62987" y="2112.1824" z="191.35287" h="10"/>
+				</spawn>
+				<!-- Asmodians Territory -->
+				<spawn npc_id="801604">
+					<spot x="138.16624" y="2208.9534" z="192.916"/>
+				</spawn>
+				<!-- Territory Boss -->
+				<spawn npc_id="231634" handler="BOSS">
+					<spot x="137.43071" y="2201.1826" z="184.125" h="90"/>
+				</spawn>
+				<!-- Spiralroot Shieldcaptain -->
+				<spawn npc_id="231871" handler="ATTACKER">
+					<spot x="111.5267" y="2118.1604" z="183.5000" h="10"/>
+				</spawn>
+				<!-- Spiralroot Assassin -->
+				<spawn npc_id="232141" handler="ATTACKER">
+					<spot x="140.2245" y="2201.2441" z="184.1250" h="60"/>
+					<spot x="134.6209" y="2201.6545" z="184.1250"/>
+				</spawn>
+			</simple_race>
+			<simple_race race="NPC">
+				<!-- Guard
+				<spawn npc_id="232389">
+					<spot h="86" z="183.23334" y="2165.0718" x="153.12955"/>
+					<spot h="87" z="184.09056" y="2183.449" x="134.13643"/>
+					<spot h="102" z="183.375" y="2170.142" x="142.59125"/>
+				</spawn>
+				<spawn npc_id="232390">
+					<spot h="98" z="184.125" y="2191.629" x="138.13582"/>
+				</spawn>
+				<spawn npc_id="232391">
+					<spot h="99" z="183.75668" y="2161.4822" x="135.89305"/>
+				</spawn>
+				<spawn npc_id="232392">
+					<spot h="97" z="184.125" y="2185.2588" x="144.84865"/>
+				</spawn> -->
+				<!-- Pioneers
+				<spawn npc_id="232665" respawn_time="295">
+					<spot x="100.0275" y="2076.6719" z="199.375"/>
+					<spot x="107.77772" y="2080.443" z="199.2777"/>
+					<spot x="112.57596" y="2074.2969" z="199.089" h="7"/>
+					<spot x="120.98116" y="2069.4023" z="199.48706"/>
+				</spawn>
+				<spawn npc_id="232666" respawn_time="295">
+					<spot x="103.96162" y="2070.2344" z="199.375" h="15"/>
+				</spawn>
+				<spawn npc_id="232667" respawn_time="295">
+					<spot x="117.35558" y="2086.8823" z="198.24583" h="7"/>
+				</spawn> -->
+				<!-- Balaur Territory -->
+				<spawn npc_id="801605">
+					<spot x="138.16624" y="2208.9534" z="192.916"/>
+				</spawn>
+				<!-- Territory Boss -->
+				<spawn npc_id="231635" handler="BOSS">
+					<spot x="137.43071" y="2201.1826" z="184.125" h="90"/>
+				</spawn>
+				<!-- Spiralroot Subjugator Tesserari -->
+				<spawn npc_id="231872" handler="ATTACKER">
+					<spot x="111.5267" y="2118.1604" z="183.5000" h="10"/>
+				</spawn>
+				<!-- Spiralroot Subjugator Assassin -->
+				<spawn npc_id="232142" handler="ATTACKER">
+					<spot x="140.2245" y="2201.2441" z="184.125" h="60"/>
+					<spot x="134.62091" y="2201.6545" z="184.125"/>
+				</spawn>
+			</simple_race>
+		</base_spawn>
+		<base_spawn id="6052"> <!-- Beritran Foothold -->
+			<simple_race race="ELYOS">
+				<spawn npc_id="800664">
+					<spot x="1104.673462" y="505.990906" z="186.036194"/>
+				</spawn>
+				<spawn npc_id="800665">
+					<spot x="1114.754639" y="504.859467" z="186.036194"/>
+				</spawn>
+				<spawn npc_id="800666">
+					<spot x="1116.499268" y="503.994415" z="186.036194"/>
+				</spawn>
+				<spawn npc_id="800667">
+					<spot x="1092.435303" y="499.562805" z="186.036194"/>
+				</spawn>
+				<spawn npc_id="800668">
+					<spot x="1109.185669" y="490.041626" z="186.036194"/>
+				</spawn>
+				<spawn npc_id="800669">
+					<spot x="1093.847046" y="501.666290" z="186.036194"/>
+				</spawn>
+				<spawn npc_id="801232">
+					<spot x="1111.559204" y="497.146362" z="186.036194"/>
+				</spawn>
+				<spawn npc_id="801402">
+					<spot x="1111.074585" y="491.393616" z="186.036194"/>
+				</spawn>
+				<spawn npc_id="801791">
+					<spot x="1113.145386" y="513.614624" z="186.036194"/>
+				</spawn>
+				<!-- Mailbox -->
+				<spawn npc_id="700000">
+					<spot h="97" z="184.75" y="508.40958" x="1106.7072"/>
+				</spawn>
+				<!-- Guard -->
+				<spawn npc_id="232204">
+					<spot h="80" z="174.38882" y="440.11057" x="1062.8119"/>
+					<spot h="73" z="174.845" y="436.11835" x="1069.0566"/>
+					<spot h="82" z="174.0" y="424.09814" x="1057.4481"/>
+					<spot h="93" z="178.06317" y="463.34842" x="1075.157"/>
+					<spot h="86" z="184.36264" y="488.0452" x="1091.8024"/>
+				</spawn>
+				<spawn npc_id="232205">
+					<spot h="80" z="184.72476" y="478.76303" x="1091.035"/>
+				</spawn>
+				<spawn npc_id="232206">
+					<spot h="85" z="178.56274" y="457.92865" x="1085.7156"/>
+				</spawn>
+				<spawn npc_id="232207">
+					<spot h="80" z="184.60803" y="482.7069" x="1101.0217"/>
+				</spawn>
+				<spawn npc_id="232208">
+					<spot h="83" z="176.58888" y="411.2889" x="1063.7031"/>
+				</spawn>
+				<!-- Foothold Pioneers Combatant -->
+				<spawn npc_id="232546" respawn_time="295">
+					<spot x="1011.0626" y="510.69418" z="198.3645" h="90"/>
+					<spot x="1011.1494" y="498.11725" z="195.84383" h="90"/>
+					<spot x="1022.4934" y="523.7677" z="196.25" h="90"/>
+					<spot x="1023.922" y="500.4382" z="196.95311" h="105"/>
+					<spot x="1028.3223" y="513.0648" z="196.41528" h="75"/>
+					<spot x="1028.6794" y="524.68475" z="196.25" h="90"/>
+					<spot x="1036.8915" y="503.31747" z="197.9704" h="75"/>
+				</spawn>
+				<!-- Foothold Pioneers Sentry -->
+				<spawn npc_id="232547" respawn_time="295">
+					<spot x="1022.1872" y="499.2202" z="196.84967" h="105"/>
+					<spot x="1037.2382" y="518.9691" z="196.8183" h="90"/>
+				</spawn>
+				<!-- Foothold Pioneers Supervisor -->
+				<spawn npc_id="232548" respawn_time="295">
+					<spot x="1017.8306" y="518.7763" z="196.25" h="90"/>
+					<spot x="1030.3247" y="525.18726" z="196.25" h="90"/>
+				</spawn>
+				<!-- Foothold Scout Envoy -->
+				<spawn npc_id="233215" respawn_time="295">
+					<spot x="978.9975" y="460.7683" z="185.11067" h="97"/>
+					<spot x="994.7721" y="471.37625" z="186.4208" h="97"/>
+					<spot x="1000.5892" y="433.50415" z="178.40703" h="110"/>
+					<spot x="1002.9541" y="484.89734" z="192.90103" h="75"/>
+				</spawn>
+				<!-- Elyos Territory -->
+				<spawn npc_id="801606">
+					<spot x="1110.6884" y="511.85785" z="184.75"/>
+				</spawn>
+				<!-- Territory Boss -->
+				<spawn npc_id="231636" handler="BOSS">
+					<spot x="1099.0599" y="502.7759" z="184.8265" h="90"/>
+				</spawn>
+				<spawn npc_id="231873" handler="ATTACKER">
+					<spot x="1099.0599" y="502.7759" z="184.8265" h="90"/>
+				</spawn>
+			</simple_race>
+			<simple_race race="ASMODIANS">
+				<spawn npc_id="800670">
+					<spot x="1104.673462" y="505.990906" z="186.036194"/>
+				</spawn>
+				<spawn npc_id="800671">
+					<spot x="1114.754639" y="504.859467" z="186.036194"/>
+				</spawn>
+				<spawn npc_id="800672">
+					<spot x="1116.499268" y="503.994415" z="186.036194"/>
+				</spawn>
+				<spawn npc_id="800673">
+					<spot x="1092.435303" y="499.562805" z="186.036194"/>
+				</spawn>
+				<spawn npc_id="800674">
+					<spot x="1109.185669" y="490.041626" z="186.036194"/>
+				</spawn>
+				<spawn npc_id="800675">
+					<spot x="1093.847046" y="501.666290" z="186.036194"/>
+				</spawn>
+				<spawn npc_id="801241">
+					<spot x="1111.559204" y="497.146362" z="186.036194"/>
+				</spawn>
+				<spawn npc_id="801401">
+					<spot x="1111.074585" y="491.393616" z="186.036194"/>
+				</spawn>
+				<spawn npc_id="801792">
+					<spot x="1113.145386" y="513.614624" z="186.036194"/>
+				</spawn>
+				<!-- Mailbox -->
+				<spawn npc_id="700079">
+					<spot h="97" z="184.75" y="508.40958" x="1106.7072"/>
+				</spawn>
+				<!-- Guard -->
+				<spawn npc_id="232299">
+					<spot h="80" z="174.38882" y="440.11057" x="1062.8119"/>
+					<spot h="73" z="174.845" y="436.11835" x="1069.0566"/>
+					<spot h="82" z="174.0" y="424.09814" x="1057.4481"/>
+					<spot h="93" z="178.06317" y="463.34842" x="1075.157"/>
+					<spot h="86" z="184.36264" y="488.0452" x="1091.8024"/>
+				</spawn>
+				<spawn npc_id="232300">
+					<spot h="80" z="184.72476" y="478.76303" x="1091.035"/>
+				</spawn>
+				<spawn npc_id="232301">
+					<spot h="85" z="178.56274" y="457.92865" x="1085.7156"/>
+				</spawn>
+				<spawn npc_id="232302">
+					<spot h="80" z="184.60803" y="482.7069" x="1101.0217"/>
+				</spawn>
+				<spawn npc_id="232303">
+					<spot h="83" z="176.58888" y="411.2889" x="1063.7031"/>
+				</spawn>
+				<!-- Foothold Pioneers Combatant -->
+				<spawn npc_id="232485" respawn_time="295">
+					<spot x="1011.0626" y="510.69418" z="198.3645" h="90"/>
+					<spot x="1011.1494" y="498.11725" z="195.84383" h="90"/>
+					<spot x="1022.4934" y="523.7677" z="196.25" h="90"/>
+					<spot x="1023.922" y="500.4382" z="196.95311" h="105"/>
+					<spot x="1028.3223" y="513.0648" z="196.41528" h="75"/>
+					<spot x="1028.6794" y="524.68475" z="196.25" h="90"/>
+					<spot x="1036.8915" y="503.31747" z="197.9704" h="75"/>
+				</spawn>
+				<!-- Foothold Pioneers Sentry -->
+				<spawn npc_id="232486" respawn_time="295">
+					<spot x="1022.1872" y="499.2202" z="196.84967" h="105"/>
+					<spot x="1037.2382" y="518.9691" z="196.8183" h="90"/>
+				</spawn>
+				<!-- Foothold Pioneers Supervisor -->
+				<spawn npc_id="232487" respawn_time="295">
+					<spot x="1017.8306" y="518.7763" z="196.25" h="90"/>
+					<spot x="1030.3247" y="525.18726" z="196.25" h="90"/>
+				</spawn>
+				<!-- Foothold Scout Envoy -->
+				<spawn npc_id="233196" respawn_time="295">
+					<spot x="978.9975" y="460.7683" z="185.11067" h="97"/>
+					<spot x="994.7721" y="471.37625" z="186.4208" h="97"/>
+					<spot x="1000.5892" y="433.50415" z="178.40703" h="110"/>
+					<spot x="1002.9541" y="484.89734" z="192.90103" h="75"/>
+				</spawn>
+				<!-- Asmodians Territory -->
+				<spawn npc_id="801607">
+					<spot x="1110.6884" y="511.85785" z="184.75"/>
+				</spawn>
+				<!-- Territory Boss -->
+				<spawn npc_id="231637" handler="BOSS">
+					<spot x="1099.0599" y="502.7759" z="184.8265" h="90"/>
+				</spawn>
+				<spawn npc_id="231874" handler="ATTACKER">
+					<spot x="1099.0599" y="502.7759" z="184.8265" h="90"/>
+				</spawn>
+			</simple_race>
+			<simple_race race="NPC">
+				<!-- Guard
+				<spawn npc_id="232394">
+					<spot h="80" z="174.38882" y="440.11057" x="1062.8119"/>
+					<spot h="73" z="174.845" y="436.11835" x="1069.0566"/>
+					<spot h="82" z="174.0" y="424.09814" x="1057.4481"/>
+					<spot h="93" z="178.06317" y="463.34842" x="1075.157"/>
+					<spot h="86" z="184.36264" y="488.0452" x="1091.8024"/>
+				</spawn>
+				<spawn npc_id="232395">
+					<spot h="80" z="184.72476" y="478.76303" x="1091.035"/>
+				</spawn>
+				<spawn npc_id="232396">
+					<spot h="85" z="178.56274" y="457.92865" x="1085.7156"/>
+				</spawn>
+				<spawn npc_id="232397">
+					<spot h="80" z="184.60803" y="482.7069" x="1101.0217"/>
+				</spawn>
+				<spawn npc_id="232398">
+					<spot h="83" z="176.58888" y="411.2889" x="1063.7031"/>
+				</spawn> -->
+				<!-- Foothold Pioneers Combatant
+				<spawn npc_id="232668" respawn_time="295">
+					<spot x="1011.0626" y="510.69418" z="198.3645" h="90"/>
+					<spot x="1011.1494" y="498.11725" z="195.84383" h="90"/>
+					<spot x="1022.4934" y="523.7677" z="196.25" h="90"/>
+					<spot x="1023.922" y="500.4382" z="196.95311" h="105"/>
+					<spot x="1028.3223" y="513.0648" z="196.41528" h="75"/>
+					<spot x="1028.6794" y="524.68475" z="196.25" h="90"/>
+					<spot x="1036.8915" y="503.31747" z="197.9704" h="75"/>
+				</spawn>
+				<spawn npc_id="232669" respawn_time="295">
+					<spot x="1022.1872" y="499.2202" z="196.84967" h="105"/>
+					<spot x="1037.2382" y="518.9691" z="196.8183" h="90"/>
+				</spawn>
+				<spawn npc_id="232670" respawn_time="295">
+					<spot x="1017.8306" y="518.7763" z="196.25" h="90"/>
+					<spot x="1030.3247" y="525.18726" z="196.25" h="90"/>
+				</spawn> -->
+				<!-- Balaur Territory -->
+				<spawn npc_id="801608">
+					<spot x="1110.6884" y="511.85785" z="184.75"/>
+				</spawn>
+				<!-- Territory Boss -->
+				<spawn npc_id="231638" handler="BOSS">
+					<spot x="1099.0599" y="502.7759" z="184.8265" h="90"/>
+				</spawn>
+				<spawn npc_id="231875" handler="ATTACKER">
+					<spot x="1099.0599" y="502.7759" z="184.8265" h="90"/>
+				</spawn>
+			</simple_race>
+		</base_spawn>
+		<base_spawn id="6053"> <!-- Primeval Ruins -->
+			<simple_race race="ELYOS">
+				<spawn npc_id="800676">
+					<spot x="856.346436" y="2765.643555" z="183.068619"/>
+				</spawn>
+				<spawn npc_id="800677">
+					<spot x="844.880005" y="2749.071289" z="183.068619"/>
+				</spawn>
+				<spawn npc_id="800678">
+					<spot x="844.847290" y="2751.159912" z="183.068619"/>
+				</spawn>
+				<spawn npc_id="800679">
+					<spot x="851.640198" y="2745.510010" z="183.068619"/>
+				</spawn>
+				<spawn npc_id="800680">
+					<spot x="865.606262" y="2759.052002" z="183.068619"/>
+				</spawn>
+				<spawn npc_id="800681">
+					<spot x="849.642029" y="2746.557617" z="183.068619"/>
+				</spawn>
+				<spawn npc_id="801233">
+					<spot x="853.368042" y="2761.706055" z="183.068619"/>
+				</spawn>
+				<spawn npc_id="801404">
+					<spot x="863.828918" y="2762.888428" z="183.068619"/>
+				</spawn>
+				<spawn npc_id="801793">
+					<spot x="839.959473" y="2754.641113" z="183.068619"/>
+				</spawn>
+				<!-- Guard -->
+				<spawn npc_id="232209">
+					<spot h="103" z="171.38405" y="2721.8552" x="920.54126"/>
+					<spot h="116" z="171.54272" y="2713.3164" x="915.2444"/>
+					<spot h="109" z="170.75" y="2707.543" x="930.8003"/>
+					<spot h="0" z="177.0" y="2734.0098" x="880.42926"/>
+					<spot h="105" z="181.91467" y="2745.939" x="864.3108"/>
+					<spot h="101" z="177.00394" y="2744.6013" x="884.063"/>
+				</spawn>
+				<spawn npc_id="232210">
+					<spot h="107" z="176.90805" y="2733.9062" x="890.43506"/>
+				</spawn>
+				<spawn npc_id="232211">
+					<spot h="85" z="178.56274" y="457.92865" x="1085.7156"/>
+				</spawn>
+				<spawn npc_id="232212">
+					<spot h="108" z="181.8339" y="2753.0684" x="869.19727"/>
+				</spawn>
+				<spawn npc_id="232213">
+					<spot h="115" z="171.3425" y="2698.4404" x="925.8195"/>
+				</spawn>
+				<!-- Ruins Pioneers Combatant -->
+				<spawn npc_id="232549" respawn_time="295">
+					<spot x="976.01434" y="2571.2605" z="182.92122" h="30"/>
+					<spot x="982.35614" y="2545.5938" z="183.125" h="20"/>
+					<spot x="983.44183" y="2564.92" z="182.92216" h="20"/>
+					<spot x="983.51764" y="2554.5156" z="182.93945" h="15"/>
+					<spot x="997.4275" y="2546.7322" z="183.20424" h="7"/>
+					<spot x="1000.6558" y="2557.49" z="183.65688" h="7"/>
+				</spawn>
+				<!-- Ruins Pioneers Sentry -->
+				<spawn npc_id="232550" respawn_time="295">
+					<spot x="971.3205" y="2563.199" z="183.125" h="20"/>
+					<spot x="991.63055" y="2558.409" z="183.09944"/>
+				</spawn>
+				<!-- Ruins Pioneers Supervisor -->
+				<spawn npc_id="232551" respawn_time="295">
+					<spot x="976.24023" y="2555.3665" z="183.15503" h="7"/>
+					<spot x="987.5947" y="2544.7031" z="183.125" h="13"/>
+				</spawn>
+				<!-- Ruins Scout Envoy -->
+				<spawn npc_id="233216" respawn_time="295">
+					<spot x="960.8939" y="2607.8894" z="182.92804" h="13"/>
+					<spot x="969.8623" y="2590.4854" z="181.37048" h="7"/>
+					<spot x="1007.8064" y="2542.255" z="187.53325" h="27"/>
+					<spot x="1023.2356" y="2549.4426" z="185.88934" h="45"/>
+				</spawn>
+				<!-- Elyos Territory -->
+				<spawn npc_id="801609">
+					<spot x="844.6785" y="2759.2375" z="190.57112"/>
+				</spawn>
+				<!-- Territory Boss -->
+				<spawn npc_id="231639" handler="BOSS">
+					<spot x="853.6359" y="2757.4578" z="182.125" h="110"/>
+				</spawn>
+				<spawn npc_id="231876" handler="ATTACKER">
+					<spot x="853.6359" y="2757.4578" z="182.125" h="110"/>
+				</spawn>
+			</simple_race>
+			<simple_race race="ASMODIANS">
+				<spawn npc_id="800682">
+					<spot x="856.346436" y="2765.643555" z="183.068619"/>
+				</spawn>
+				<spawn npc_id="800683">
+					<spot x="844.880005" y="2749.071289" z="183.068619"/>
+				</spawn>
+				<spawn npc_id="800684">
+					<spot x="844.847290" y="2751.159912" z="183.068619"/>
+				</spawn>
+				<spawn npc_id="800685">
+					<spot x="851.640198" y="2745.510010" z="183.068619"/>
+				</spawn>
+				<spawn npc_id="800686">
+					<spot x="865.606262" y="2759.052002" z="183.068619"/>
+				</spawn>
+				<spawn npc_id="800687">
+					<spot x="865.606262" y="2759.052002" z="183.068619"/>
+				</spawn>
+				<spawn npc_id="801242">
+					<spot x="853.368042" y="2761.706055" z="183.068619"/>
+				</spawn>
+				<spawn npc_id="801403">
+					<spot x="863.828918" y="2762.888428" z="183.068619"/>
+				</spawn>
+				<spawn npc_id="801794">
+					<spot x="839.959473" y="2754.641113" z="183.068619"/>
+				</spawn>
+				<!-- Guard -->
+				<spawn npc_id="232304">
+					<spot h="103" z="171.38405" y="2721.8552" x="920.54126"/>
+					<spot h="116" z="171.54272" y="2713.3164" x="915.2444"/>
+					<spot h="109" z="170.75" y="2707.543" x="930.8003"/>
+					<spot h="0" z="177.0" y="2734.0098" x="880.42926"/>
+					<spot h="105" z="181.91467" y="2745.939" x="864.3108"/>
+					<spot h="101" z="177.00394" y="2744.6013" x="884.063"/>
+				</spawn>
+				<spawn npc_id="232305">
+					<spot h="107" z="176.90805" y="2733.9062" x="890.43506"/>
+				</spawn>
+				<spawn npc_id="232306">
+					<spot h="85" z="178.56274" y="457.92865" x="1085.7156"/>
+				</spawn>
+				<spawn npc_id="232307">
+					<spot h="108" z="181.8339" y="2753.0684" x="869.19727"/>
+				</spawn>
+				<spawn npc_id="232308">
+					<spot h="115" z="171.3425" y="2698.4404" x="925.8195"/>
+				</spawn>
+				<!-- Ruins Pioneers Combatant -->
+				<spawn npc_id="232488" respawn_time="295">
+					<spot x="976.01434" y="2571.2605" z="182.92122" h="30"/>
+					<spot x="982.35614" y="2545.5938" z="183.125" h="20"/>
+					<spot x="983.44183" y="2564.92" z="182.92216" h="20"/>
+					<spot x="983.51764" y="2554.5156" z="182.93945" h="15"/>
+					<spot x="997.4275" y="2546.7322" z="183.20424" h="7"/>
+					<spot x="1000.6558" y="2557.49" z="183.65688" h="7"/>
+				</spawn>
+				<!-- Ruins Pioneers Sentry -->
+				<spawn npc_id="232489" respawn_time="295">
+					<spot x="971.3205" y="2563.199" z="183.125" h="20"/>
+					<spot x="991.63055" y="2558.409" z="183.09944"/>
+				</spawn>
+				<!-- Ruins Pioneers Supervisor -->
+				<spawn npc_id="232490" respawn_time="295">
+					<spot x="976.24023" y="2555.3665" z="183.15503" h="7"/>
+					<spot x="987.5947" y="2544.7031" z="183.125" h="13"/>
+				</spawn>
+				<!-- Ruins Scout Envoy -->
+				<spawn npc_id="233197" respawn_time="295">
+					<spot x="960.8939" y="2607.8894" z="182.92804" h="13"/>
+					<spot x="969.8623" y="2590.4854" z="181.37048" h="7"/>
+					<spot x="1007.8064" y="2542.255" z="187.53325" h="27"/>
+					<spot x="1023.2356" y="2549.4426" z="185.88934" h="45"/>
+				</spawn>
+				<!-- Asmodians Territory -->
+				<spawn npc_id="801610">
+					<spot x="844.6785" y="2759.2375" z="190.57112"/>
+				</spawn>
+				<!-- Territory Boss -->
+				<spawn npc_id="231640" handler="BOSS">
+					<spot x="853.6359" y="2757.4578" z="182.125" h="110"/>
+				</spawn>
+				<spawn npc_id="231877" handler="ATTACKER">
+					<spot x="853.6359" y="2757.4578" z="182.125" h="110"/>
+				</spawn>
+			</simple_race>
+			<simple_race race="NPC">
+				<!-- Guard
+				<spawn npc_id="232399">
+					<spot h="103" z="171.38405" y="2721.8552" x="920.54126"/>
+					<spot h="116" z="171.54272" y="2713.3164" x="915.2444"/>
+					<spot h="109" z="170.75" y="2707.543" x="930.8003"/>
+					<spot h="0" z="177.0" y="2734.0098" x="880.42926"/>
+					<spot h="105" z="181.91467" y="2745.939" x="864.3108"/>
+				</spawn>
+				<spawn npc_id="232400">
+					<spot h="107" z="176.90805" y="2733.9062" x="890.43506"/>
+				</spawn>
+				<spawn npc_id="232401">
+					<spot h="85" z="178.56274" y="457.92865" x="1085.7156"/>
+				</spawn>
+				<spawn npc_id="232402">
+					<spot h="108" z="181.8339" y="2753.0684" x="869.19727"/>
+				</spawn>
+				<spawn npc_id="232403">
+					<spot h="115" z="171.3425" y="2698.4404" x="925.8195"/>
+				</spawn> -->
+				<!-- Ruins Pioneers Combatant
+				<spawn npc_id="232671" respawn_time="295">
+					<spot x="976.01434" y="2571.2605" z="182.92122" h="30"/>
+					<spot x="982.35614" y="2545.5938" z="183.125" h="20"/>
+					<spot x="983.44183" y="2564.92" z="182.92216" h="20"/>
+					<spot x="983.51764" y="2554.5156" z="182.93945" h="15"/>
+					<spot x="997.4275" y="2546.7322" z="183.20424" h="7"/>
+					<spot x="1000.6558" y="2557.49" z="183.65688" h="7"/>
+				</spawn>
+				<spawn npc_id="232672" respawn_time="295">
+					<spot x="971.3205" y="2563.199" z="183.125" h="20"/>
+					<spot x="991.63055" y="2558.409" z="183.09944"/>
+				</spawn>
+				<spawn npc_id="232673" respawn_time="295">
+					<spot x="976.24023" y="2555.3665" z="183.15503" h="7"/>
+					<spot x="987.5947" y="2544.7031" z="183.125" h="13"/>
+				</spawn> -->
+				<!-- Balaur Territory -->
+				<spawn npc_id="801611">
+					<spot x="844.6785" y="2759.2375" z="190.57112"/>
+				</spawn>
+				<!-- Territory Boss -->
+				<spawn npc_id="231641" handler="BOSS">
+					<spot x="853.6359" y="2757.4578" z="182.125" h="110"/>
+				</spawn>
+				<spawn npc_id="231878" handler="ATTACKER">
+					<spot x="853.6359" y="2757.4578" z="182.125" h="110"/>
+				</spawn>
+			</simple_race>
+		</base_spawn>
+		<base_spawn id="6054"> <!-- Broken Cliff Camp -->
+			<simple_race race="ELYOS">
+				<spawn npc_id="730655">
+					<spot x="1571.7942" y="1472.2792" z="129.625"/>
+				</spawn>
+				<spawn npc_id="800688">
+					<spot x="1570.913574" y="1475.130737" z="131.413696"/>
+				</spawn>
+				<spawn npc_id="800689">
+					<spot x="1581.961914" y="1475.253296" z="131.413696"/>
+				</spawn>
+				<spawn npc_id="800690">
+					<spot x="1561.417114" y="1481.796753" z="130.105301"/>
+				</spawn>
+				<spawn npc_id="800692">
+					<spot x="1583.929565" y="1480.917480" z="131.413696"/>
+				</spawn>
+				<spawn npc_id="801234">
+					<spot x="1561.465088" y="1477.416870" z="130.105301"/>
+				</spawn>
+				<spawn npc_id="801408">
+					<spot x="1573.545166" y="1474.289307" z="131.413696"/>
+				</spawn>
+				<spawn npc_id="801410">
+					<spot x="1574.966431" y="1474.402954" z="131.413696"/>
+				</spawn>
+				<spawn npc_id="801412">
+					<spot x="1561.780762" y="1484.083862" z="130.105301"/>
+				</spawn>
+				<spawn npc_id="801556">
+					<spot x="1585.747559" y="1482.258423" z="131.413696"/>
+				</spawn>
+				<spawn npc_id="801795">
+					<spot x="1578.329834" y="1474.697510" z="131.413696"/>
+				</spawn>
+				<!-- Guard -->
+				<spawn npc_id="232214">
+					<spot h="56" z="122.552475" y="1546.0502" x="1552.47"/>
+					<spot h="13" z="129.49075" y="1535.5645" x="1581.0719"/>
+					<spot h="44" z="129.5" y="1496.609" x="1569.7988"/>
+					<spot h="39" z="130.05598" y="1497.4479" x="1581.0332"/>
+				</spawn>
+				<spawn npc_id="232215">
+					<spot h="27" z="129.5" y="1485.1859" x="1574.1196"/>
+				</spawn>
+				<spawn npc_id="232216">
+					<spot h="36" z="129.375" y="1495.0536" x="1562.1162"/>
+				</spawn>
+				<spawn npc_id="232217">
+					<spot h="20" z="129.98549" y="1495.1489" x="1585.47"/>
+				</spawn>
+				<spawn npc_id="232218">
+					<spot h="35" z="128.58684" y="1511.5543" x="1566.0524"/>
+				</spawn>
+				<!-- Occupation Pioneers Combatant -->
+				<spawn npc_id="232552" respawn_time="295">
+					<spot h="31" z="124.091385" y="1415.2782" x="1515.3947"/>
+					<spot h="18" z="122.61406" y="1403.3457" x="1507.6921"/>
+					<spot h="38" z="120.39358" y="1412.8306" x="1491.1442"/>
+					<spot h="64" z="121.92363" y="1383.5269" x="1494.715"/>
+					<spot h="24" z="123.302" y="1425.4124" x="1509.4197"/>
+				</spawn>
+				<!-- Occupation Pioneers Sentry -->
+				<spawn npc_id="232553" respawn_time="295">
+					<spot h="32" z="121.92478" y="1406.8158" x="1501.8978"/>
+				</spawn>
+				<!-- Occupation Pioneers Supervisor -->
+				<spawn npc_id="232554" respawn_time="295">
+					<spot h="59" z="121.54949" y="1395.4525" x="1491.7249"/>
+				</spawn>
+				<!-- Occupation Scout Envoy -->
+				<spawn npc_id="233217" respawn_time="295">
+					<spot h="70" z="122.93608" y="1443.6542" x="1489.772"/>
+					<spot h="33" z="123.78382" y="1454.8258" x="1498.3734"/>
+					<spot h="13" z="128.38373" y="1455.8606" x="1518.8367"/>
+					<spot h="28" z="127.11716" y="1441.8848" x="1522.9529"/>
+					<spot h="25" z="123.992874" y="1440.5298" x="1508.8264"/>
+				</spawn>
+				<!-- Elyos Territory -->
+				<spawn npc_id="801612">
+					<spot x="1571.7942" y="1472.2792" z="129.625"/>
+				</spawn>
+				<!-- Territory Boss -->
+				<spawn npc_id="231642" handler="BOSS">
+					<spot x="1566.8943" y="1478.415" z="129.4309" h="30"/>
+				</spawn>
+				<spawn npc_id="231879" handler="ATTACKER">
+					<spot x="1566.8943" y="1478.415" z="129.4309" h="30"/>
+				</spawn>
+			</simple_race>
+			<simple_race race="ASMODIANS">
+				<spawn npc_id="730654">
+					<spot x="1584.711426" y="1487.798462" z="132.752319"/>
+				</spawn>
+				<spawn npc_id="800693">
+					<spot x="1570.913574" y="1475.130737" z="131.413696"/>
+				</spawn>
+				<spawn npc_id="800694">
+					<spot x="1581.961914" y="1475.253296" z="131.413696"/>
+				</spawn>
+				<spawn npc_id="800695">
+					<spot x="1561.417114" y="1481.796753" z="130.105301"/>
+				</spawn>
+				<spawn npc_id="800697">
+					<spot x="1583.929565" y="1480.917480" z="131.413696"/>
+				</spawn>
+				<spawn npc_id="801243">
+					<spot x="1561.465088" y="1477.416870" z="130.105301"/>
+				</spawn>
+				<spawn npc_id="801407">
+					<spot x="1573.545166" y="1474.289307" z="131.413696"/>
+				</spawn>
+				<spawn npc_id="801409">
+					<spot x="1574.966431" y="1474.402954" z="131.413696"/>
+				</spawn>
+				<spawn npc_id="801411">
+					<spot x="1561.780762" y="1484.083862" z="130.105301"/>
+				</spawn>
+				<spawn npc_id="801555">
+					<spot x="1585.747559" y="1482.258423" z="131.413696"/>
+				</spawn>
+				<spawn npc_id="801796">
+					<spot x="1578.329834" y="1474.697510" z="131.413696"/>
+				</spawn>
+				<!-- Guard -->
+				<spawn npc_id="232309">
+					<spot h="56" z="122.552475" y="1546.0502" x="1552.47"/>
+					<spot h="13" z="129.49075" y="1535.5645" x="1581.0719"/>
+					<spot h="44" z="129.5" y="1496.609" x="1569.7988"/>
+					<spot h="39" z="130.05598" y="1497.4479" x="1581.0332"/>
+				</spawn>
+				<spawn npc_id="232310">
+					<spot h="27" z="129.5" y="1485.1859" x="1574.1196"/>
+				</spawn>
+				<spawn npc_id="232311">
+					<spot h="36" z="129.375" y="1495.0536" x="1562.1162"/>
+				</spawn>
+				<spawn npc_id="232312">
+					<spot h="20" z="129.98549" y="1495.1489" x="1585.47"/>
+				</spawn>
+				<spawn npc_id="232313">
+					<spot h="35" z="128.58684" y="1511.5543" x="1566.0524"/>
+				</spawn>
+				<!-- Occupation Pioneers Combatant -->
+				<spawn npc_id="232491" respawn_time="295">
+					<spot h="31" z="124.091385" y="1415.2782" x="1515.3947"/>
+					<spot h="18" z="122.61406" y="1403.3457" x="1507.6921"/>
+					<spot h="38" z="120.39358" y="1412.8306" x="1491.1442"/>
+					<spot h="64" z="121.92363" y="1383.5269" x="1494.715"/>
+					<spot h="24" z="123.302" y="1425.4124" x="1509.4197"/>
+				</spawn>
+				<!-- Occupation Pioneers Sentry -->
+				<spawn npc_id="232492" respawn_time="295">
+					<spot h="32" z="121.92478" y="1406.8158" x="1501.8978"/>
+				</spawn>
+				<!-- Occupation Pioneers Supervisor -->
+				<spawn npc_id="232493" respawn_time="295">
+					<spot h="59" z="121.54949" y="1395.4525" x="1491.7249"/>
+				</spawn>
+				<!-- Occupation Scout Envoy -->
+				<spawn npc_id="233198" respawn_time="295">
+					<spot h="70" z="122.93608" y="1443.6542" x="1489.772"/>
+					<spot h="33" z="123.78382" y="1454.8258" x="1498.3734"/>
+					<spot h="13" z="128.38373" y="1455.8606" x="1518.8367"/>
+					<spot h="28" z="127.11716" y="1441.8848" x="1522.9529"/>
+					<spot h="25" z="123.992874" y="1440.5298" x="1508.8264"/>
+				</spawn>
+				<!-- Asmodians Territory -->
+				<spawn npc_id="801613">
+					<spot x="1571.7942" y="1472.2792" z="129.625"/>
+				</spawn>
+				<!-- Territory Boss -->
+				<spawn npc_id="231643" handler="BOSS">
+					<spot x="1566.8943" y="1478.415" z="129.4309" h="30"/>
+				</spawn>
+				<spawn npc_id="231880" handler="ATTACKER">
+					<spot x="1566.8943" y="1478.415" z="129.4309" h="30"/>
+				</spawn>
+			</simple_race>
+			<simple_race race="NPC">
+				<!-- Guard
+				<spawn npc_id="232404">
+					<spot h="56" z="122.552475" y="1546.0502" x="1552.47"/>
+					<spot h="13" z="129.49075" y="1535.5645" x="1581.0719"/>
+					<spot h="44" z="129.5" y="1496.609" x="1569.7988"/>
+					<spot h="39" z="130.05598" y="1497.4479" x="1581.0332"/>
+				</spawn>
+				<spawn npc_id="232405">
+					<spot h="27" z="129.5" y="1485.1859" x="1574.1196"/>
+				</spawn>
+				<spawn npc_id="232406">
+					<spot h="36" z="129.375" y="1495.0536" x="1562.1162"/>
+				</spawn>
+				<spawn npc_id="232407">
+					<spot h="20" z="129.98549" y="1495.1489" x="1585.47"/>
+				</spawn>
+				<spawn npc_id="232408">
+					<spot h="35" z="128.58684" y="1511.5543" x="1566.0524"/>
+				</spawn> -->
+				<!-- Occupation Pioneers Combatant
+				<spawn npc_id="232674" respawn_time="295">
+					<spot h="31" z="124.091385" y="1415.2782" x="1515.3947"/>
+					<spot h="18" z="122.61406" y="1403.3457" x="1507.6921"/>
+					<spot h="38" z="120.39358" y="1412.8306" x="1491.1442"/>
+					<spot h="64" z="121.92363" y="1383.5269" x="1494.715"/>
+					<spot h="24" z="123.302" y="1425.4124" x="1509.4197"/>
+				</spawn>
+				<spawn npc_id="232675" respawn_time="295">
+					<spot h="32" z="121.92478" y="1406.8158" x="1501.8978"/>
+				</spawn>
+				<spawn npc_id="232676" respawn_time="295">
+					<spot h="59" z="121.54949" y="1395.4525" x="1491.7249"/>
+				</spawn> -->
+				<!-- Balaur Territory -->
+				<spawn npc_id="801614">
+					<spot x="1571.7942" y="1472.2792" z="129.625"/>
+				</spawn>
+				<!-- Territory Boss -->
+				<spawn npc_id="231644" handler="BOSS">
+					<spot x="1566.8943" y="1478.415" z="129.4309" h="30"/>
+				</spawn>
+				<spawn npc_id="231880" handler="ATTACKER">
+					<spot x="1566.8943" y="1478.415" z="129.4309" h="30"/>
+				</spawn>
+			</simple_race>
+		</base_spawn>
+		<base_spawn id="6055"> <!-- Irigani Keep -->
+			<simple_race race="ELYOS">
+				<spawn npc_id="800698">
+					<spot x="1696.853149" y="1116.306763" z="186.961060"/>
+				</spawn>
+				<spawn npc_id="800699">
+					<spot x="1673.235352" y="1122.391113" z="186.953690"/>
+				</spawn>
+				<spawn npc_id="801235">
+					<spot x="1693.907837" y="1116.821045" z="186.961060"/>
+				</spawn>
+				<spawn npc_id="801414">
+					<spot x="1651.081421" y="1086.729126" z="184.882797"/>
+				</spawn>
+				<spawn npc_id="801419">
+					<spot x="1651.126831" y="1090.247925" z="184.882797"/>
+				</spawn>
+				<spawn npc_id="801421">
+					<spot x="1659.565430" y="1108.803589" z="184.882797"/>
+				</spawn>
+				<spawn npc_id="801423">
+					<spot x="1695.277832" y="1094.133423" z="184.324173"/>
+				</spawn>
+				<spawn npc_id="801425">
+					<spot x="1654.306396" y="1104.453735" z="184.882797"/>
+				</spawn>
+				<spawn npc_id="801427">
+					<spot x="1658.013916" y="1105.730347" z="184.882797"/>
+				</spawn>
+				<!-- Guard -->
+				<spawn npc_id="232219">
+					<spot h="87" z="173.25" y="1012.40625" x="1652.3832"/>
+					<spot h="89" z="173.90782" y="1015.9837" x="1663.7675"/>
+					<spot h="101" z="181.50972" y="1070.7185" x="1667.6072"/>
+				</spawn>
+				<spawn npc_id="232220">
+					<spot h="88" z="179.86356" y="1063.1941" x="1673.8466"/>
+				</spawn>
+				<spawn npc_id="232221">
+					<spot h="78" z="173.125" y="1006.16394" x="1669.0233"/>
+				</spawn>
+				<spawn npc_id="232222">
+					<spot h="82" z="181.83897" y="1069.8079" x="1679.874"/>
+				</spawn>
+				<spawn npc_id="232223">
+					<spot h="83" z="176.64815" y="1038.6455" x="1672.4935"/>
+				</spawn>
+				<!-- Irigani Pioneers Veteran Combatant -->
+				<spawn npc_id="232555" respawn_time="295">
+					<spot x="1556.8933" y="889.0984" z="147.04353" h="107"/>
+					<spot x="1565.6057" y="896.47394" z="146.0" h="105"/>
+					<spot x="1565.9304" y="923.08295" z="146.375" h="105"/>
+					<spot x="1570.3304" y="909.0043" z="145.60434" h="90"/>
+					<spot x="1571.5945" y="932.9834" z="146.375" h="80"/>
+					<spot x="1575.9421" y="910.54236" z="145.74638" h="93"/>
+					<spot x="1594.2" y="827.2239" z="143.08899" h="45"/>
+				</spawn>
+				<!-- Irigani Pioneers Veteran Sentry -->
+				<spawn npc_id="232556" respawn_time="295">
+					<spot x="1561.8403" y="910.6345" z="146.05962" h="90"/>
+				</spawn>
+				<!-- Irigani Pioneers Veteran Supervisor -->
+				<spawn npc_id="232557" respawn_time="295">
+					<spot x="1564.479" y="920.86163" z="146.34506" h="105"/>
+				</spawn>
+				<!-- Irigani Pioneers Veteran Gunslinger -->
+				<spawn npc_id="232558" respawn_time="295">
+					<spot x="1552.8518" y="898.2531" z="147.91168" h="105"/>
+					<spot x="1577.729" y="925.4977" z="146.375" h="90"/>
+					<spot x="1581.863" y="899.11395" z="146.48288" h="105"/>
+				</spawn>
+				<!-- Irigani Scout Envoy -->
+				<spawn npc_id="233218" respawn_time="295">
+					<spot x="1568.4376" y="872.0524" z="147.67316" h="90"/>
+					<spot x="1579.3811" y="849.5033" z="146.18109" h="63"/>
+					<spot x="1596.2998" y="915.98035" z="163.43767" h="70"/>
+					<spot x="1607.0345" y="878.56586" z="152.74405" h="67"/>
+				</spawn>
+				<!-- Elyos Territory -->
+				<spawn npc_id="801615">
+					<spot x="1686.3455" y="1121.6199" z="195.51602"/>
+				</spawn>
+				<!-- Territory Boss -->
+				<spawn npc_id="231645" handler="BOSS">
+					<spot x="1685.6053" y="1114.662" z="186.51433" h="87"/>
+				</spawn>
+				<spawn npc_id="231882" handler="ATTACKER">
+					<spot x="1685.6053" y="1114.662" z="186.51433" h="87"/>
+				</spawn>
+			</simple_race>
+			<simple_race race="ASMODIANS">
+				<spawn npc_id="730656">
+					<spot x="1663.313354" y="1113.802124" z="185.267227"/>
+				</spawn>
+				<spawn npc_id="800703">
+					<spot x="1696.853149" y="1116.306763" z="186.961060"/>
+				</spawn>
+				<spawn npc_id="800704">
+					<spot x="1673.235352" y="1122.391113" z="186.953690"/>
+				</spawn>
+				<spawn npc_id="801244">
+					<spot x="1693.907837" y="1116.821045" z="186.961060"/>
+				</spawn>
+				<spawn npc_id="801413">
+					<spot x="1651.081421" y="1086.729126" z="184.882797"/>
+				</spawn>
+				<spawn npc_id="801418">
+					<spot x="1651.126831" y="1090.247925" z="184.882797"/>
+				</spawn>
+				<spawn npc_id="801420">
+					<spot x="1659.565430" y="1108.803589" z="184.882797"/>
+				</spawn>
+				<spawn npc_id="801422">
+					<spot x="1695.277832" y="1094.133423" z="184.324173"/>
+				</spawn>
+				<spawn npc_id="801424">
+					<spot x="1654.306396" y="1104.453735" z="184.882797"/>
+				</spawn>
+				<spawn npc_id="801426">
+					<spot x="1658.013916" y="1105.730347" z="184.882797"/>
+				</spawn>
+				<!-- Guard -->
+				<spawn npc_id="232314">
+					<spot h="87" z="173.25" y="1012.40625" x="1652.3832"/>
+					<spot h="89" z="173.90782" y="1015.9837" x="1663.7675"/>
+					<spot h="101" z="181.50972" y="1070.7185" x="1667.6072"/>
+				</spawn>
+				<spawn npc_id="232315">
+					<spot h="88" z="179.86356" y="1063.1941" x="1673.8466"/>
+				</spawn>
+				<spawn npc_id="232316">
+					<spot h="78" z="173.125" y="1006.16394" x="1669.0233"/>
+				</spawn>
+				<spawn npc_id="232317">
+					<spot h="82" z="181.83897" y="1069.8079" x="1679.874"/>
+				</spawn>
+				<spawn npc_id="232318">
+					<spot h="83" z="176.64815" y="1038.6455" x="1672.4935"/>
+				</spawn>
+				<!-- Irigani Pioneers Veteran Combatant -->
+				<spawn npc_id="232494" respawn_time="295">
+					<spot x="1556.8933" y="889.0984" z="147.04353" h="107"/>
+					<spot x="1565.6057" y="896.47394" z="146.0" h="105"/>
+					<spot x="1565.9304" y="923.08295" z="146.375" h="105"/>
+					<spot x="1570.3304" y="909.0043" z="145.60434" h="90"/>
+					<spot x="1571.5945" y="932.9834" z="146.375" h="80"/>
+					<spot x="1575.9421" y="910.54236" z="145.74638" h="93"/>
+					<spot x="1594.2" y="827.2239" z="143.08899" h="45"/>
+				</spawn>
+				<!-- Irigani Pioneers Veteran Sentry -->
+				<spawn npc_id="232495" respawn_time="295">
+					<spot x="1561.8403" y="910.6345" z="146.05962" h="90"/>
+				</spawn>
+				<!-- Irigani Pioneers Veteran Supervisor -->
+				<spawn npc_id="232496" respawn_time="295">
+					<spot x="1564.479" y="920.86163" z="146.34506" h="105"/>
+				</spawn>
+				<!-- Irigani Pioneers Veteran Gunslinger -->
+				<spawn npc_id="232497" respawn_time="295">
+					<spot x="1552.8518" y="898.2531" z="147.91168" h="105"/>
+					<spot x="1577.729" y="925.4977" z="146.375" h="90"/>
+					<spot x="1581.863" y="899.11395" z="146.48288" h="105"/>
+				</spawn>
+				<!-- Irigani Scout Envoy -->
+				<spawn npc_id="233199" respawn_time="295">
+					<spot x="1568.4376" y="872.0524" z="147.67316" h="90"/>
+					<spot x="1579.3811" y="849.5033" z="146.18109" h="63"/>
+					<spot x="1596.2998" y="915.98035" z="163.43767" h="70"/>
+					<spot x="1607.0345" y="878.56586" z="152.74405" h="67"/>
+				</spawn>
+				<!-- Asmodians Territory -->
+				<spawn npc_id="801616">
+					<spot x="1686.3455" y="1121.6199" z="195.51602"/>
+				</spawn>
+				<!-- Territory Boss -->
+				<spawn npc_id="231646" handler="BOSS">
+					<spot x="1685.6053" y="1114.662" z="186.51433" h="87"/>
+				</spawn>
+				<spawn npc_id="231883" handler="ATTACKER">
+					<spot x="1685.6053" y="1114.662" z="186.51433" h="87"/>
+				</spawn>
+			</simple_race>
+			<simple_race race="NPC">
+				<!-- Guard
+				<spawn npc_id="232409">
+					<spot h="87" z="173.25" y="1012.40625" x="1652.3832"/>
+					<spot h="89" z="173.90782" y="1015.9837" x="1663.7675"/>
+					<spot h="101" z="181.50972" y="1070.7185" x="1667.6072"/>
+				</spawn>
+				<spawn npc_id="232410">
+					<spot h="88" z="179.86356" y="1063.1941" x="1673.8466"/>
+				</spawn>
+				<spawn npc_id="232411">
+					<spot h="78" z="173.125" y="1006.16394" x="1669.0233"/>
+				</spawn>
+				<spawn npc_id="232412">
+					<spot h="82" z="181.83897" y="1069.8079" x="1679.874"/>
+				</spawn>
+				<spawn npc_id="232413">
+					<spot h="83" z="176.64815" y="1038.6455" x="1672.4935"/>
+				</spawn> -->
+				<!-- Irigani Pioneers Veteran Sentry
+				<spawn npc_id="232677" respawn_time="295">
+					<spot x="1556.8933" y="889.0984" z="147.04353" h="107"/>
+					<spot x="1565.6057" y="896.47394" z="146.0" h="105"/>
+					<spot x="1565.9304" y="923.08295" z="146.375" h="105"/>
+					<spot x="1570.3304" y="909.0043" z="145.60434" h="90"/>
+					<spot x="1571.5945" y="932.9834" z="146.375" h="80"/>
+					<spot x="1575.9421" y="910.54236" z="145.74638" h="93"/>
+					<spot x="1594.2" y="827.2239" z="143.08899" h="45"/>
+				</spawn>
+				<spawn npc_id="232678" respawn_time="295">
+					<spot x="1561.8403" y="910.6345" z="146.05962" h="90"/>
+				</spawn>
+				<spawn npc_id="232679" respawn_time="295">
+					<spot x="1564.479" y="920.86163" z="146.34506" h="105"/>
+				</spawn>
+				<spawn npc_id="232680" respawn_time="295">
+					<spot x="1552.8518" y="898.2531" z="147.91168" h="105"/>
+					<spot x="1577.729" y="925.4977" z="146.375" h="90"/>
+					<spot x="1581.863" y="899.11395" z="146.48288" h="105"/>
+				</spawn> -->
+				<!-- Balaur Territory -->
+				<spawn npc_id="801617">
+					<spot x="1686.3455" y="1121.6199" z="195.51602"/>
+				</spawn>
+				<!-- Territory Boss -->
+				<spawn npc_id="231647" handler="BOSS">
+					<spot x="1685.6053" y="1114.662" z="186.51433" h="87"/>
+				</spawn>
+				<spawn npc_id="231884" handler="ATTACKER">
+					<spot x="1685.6053" y="1114.662" z="186.51433" h="87"/>
+				</spawn>
+			</simple_race>
+		</base_spawn>
+		<base_spawn id="6056"> <!-- Crumbling Redoubt -->
+			<simple_race race="ELYOS">
+				<spawn npc_id="730657">
+					<spot x="1556.784180" y="2245.498535" z="177.788086"/>
+				</spawn>
+				<spawn npc_id="800708">
+					<spot x="1547.202271" y="2275.256348" z="178.73"/>
+				</spawn>
+				<spawn npc_id="800709">
+					<spot x="1565.358154" y="2237.667969" z="176.477692"/>
+				</spawn>
+				<spawn npc_id="801236">
+					<spot x="1547.529785" y="2270.945557" z="178.73"/>
+				</spawn>
+				<spawn npc_id="801429">
+					<spot x="1579.512329" y="2236.078857" z="176.477692"/>
+				</spawn>
+				<spawn npc_id="801433">
+					<spot x="1582.176392" y="2237.204834" z="176.477692"/>
+				</spawn>
+				<spawn npc_id="801435">
+					<spot x="1573.541870" y="2282.926270" z="176.257690"/>
+				</spawn>
+				<spawn npc_id="801437">
+					<spot x="1562.288452" y="2238.706055" z="177.088028"/>
+				</spawn>
+				<spawn npc_id="801439">
+					<spot x="1564.473999" y="2277.253662" z="176.257690"/>
+				</spawn>
+				<spawn npc_id="801441">
+					<spot x="1567.207275" y="2277.335938" z="176.257690"/>
+				</spawn>
+				<!-- Guard -->
+				<spawn npc_id="232224">
+					<spot h="8" z="173.39536" y="2284.137" x="1608.7687"/>
+					<spot h="3" z="174.375" y="2269.3052" x="1592.286"/>
+					<spot h="90" z="174.75" y="2280.746" x="1570.5803"/>
+				</spawn>
+				<spawn npc_id="232225">
+					<spot h="16" z="174.81522" y="2253.023" x="1570.0664"/>
+					<spot h="1" z="174.57993" y="2265.8987" x="1570.7213"/>
+				</spawn>
+				<spawn npc_id="232226">
+					<spot h="12" z="165.52573" y="2291.039" x="1642.4117"/>
+					<spot h="14" z="166.6567" y="2306.9636" x="1634.7101"/>
+					<spot h="10" z="174.45813" y="2257.0847" x="1593.5852"/>
+				</spawn>
+				<spawn npc_id="232227">
+					<spot h="5" z="177.2711" y="2277.95" x="1586.729"/>
+					<spot h="0" z="177.1531" y="2250.0374" x="1588.5562"/>
+				</spawn>
+				<spawn npc_id="232228">
+					<spot h="20" z="175.7193" y="2238.274" x="1571.3954"/>
+					<spot h="5" z="178.73657" y="2253.2961" x="1546.5643"/>
+				</spawn>
+				<!-- Redoubt Pioneers Veteran Combatant -->
+				<spawn npc_id="232559" respawn_time="295">
+					<spot x="1695.5802" y="2380.3704" z="171.50308" h="105"/>
+					<spot x="1702.1525" y="2394.2856" z="171.78691" h="93"/>
+					<spot x="1705.852" y="2375.1304" z="171.625" h="105"/>
+					<spot x="1710.9192" y="2363.715" z="169.76413" h="105"/>
+					<spot x="1711.0145" y="2378.411" z="171.68658" h="105"/>
+					<spot x="1714.3983" y="2392.7917" z="172.44937"/>
+					<spot x="1723.4515" y="2373.4058" z="169.49142" h="105"/>
+				</spawn>
+				<!-- Redoubt Pioneers Veteran Sentry -->
+				<spawn npc_id="232560" respawn_time="295">
+					<spot x="1713.6613" y="2390.045" z="172.23163"/>
+				</spawn>
+				<!-- Redoubt Pioneers Supervisor -->
+				<spawn npc_id="232561" respawn_time="295">
+					<spot x="1698.3912" y="2388.0713" z="171.375" h="105"/>
+				</spawn>
+				<!-- Redoubt Pioneers Veteran Gunslinger -->
+				<spawn npc_id="232562" respawn_time="295">
+					<spot x="1712.1635" y="2365.4348" z="170.09848"/>
+					<spot x="1726.0591" y="2386.2244" z="172.0524" h="113"/>
+					<spot x="1727.6771" y="2388.8901" z="172.69353" h="105"/>
+				</spawn>
+				<!-- Redoubt Scout Envoy -->
+				<spawn npc_id="233219" respawn_time="295">
+					<spot x="1693.5403" y="2344.9387" z="166.23347" h="87"/>
+					<spot x="1709.4995" y="2349.7688" z="166.8461" h="90"/>
+					<spot x="1736.4655" y="2366.4756" z="167.46353" h="80"/>
+					<spot x="1750.0577" y="2393.066" z="171.10954" h="90"/>
+				</spawn>
+				<!-- Elyos Territory -->
+				<spawn npc_id="801618">
+					<spot x="1544.114" y="2260.9583" z="184.08958"/>
+				</spawn>
+				<!-- Territory Boss -->
+				<spawn npc_id="231648" handler="BOSS">
+					<spot x="1549.8088" y="2263.9612" z="178.87689"/>
+				</spawn>
+				<spawn npc_id="231885" handler="ATTACKER">
+					<spot x="1549.8088" y="2263.9612" z="178.87689"/>
+				</spawn>
+			</simple_race>
+			<simple_race race="ASMODIANS">
+				<spawn npc_id="800713">
+					<spot x="1547.202271" y="2275.256348" z="178.73"/>
+				</spawn>
+				<spawn npc_id="800714">
+					<spot x="1565.358154" y="2237.667969" z="176.477692"/>
+				</spawn>
+				<spawn npc_id="801245">
+					<spot x="1547.529785" y="2270.945557" z="178.73"/>
+				</spawn>
+				<spawn npc_id="801428">
+					<spot x="1579.512329" y="2236.078857" z="176.477692"/>
+				</spawn>
+				<spawn npc_id="801432">
+					<spot x="1582.176392" y="2237.204834" z="176.477692"/>
+				</spawn>
+				<spawn npc_id="801434">
+					<spot x="1573.541870" y="2282.926270" z="176.257690"/>
+				</spawn>
+				<spawn npc_id="801436">
+					<spot x="1562.288452" y="2238.706055" z="177.088028"/>
+				</spawn>
+				<spawn npc_id="801438">
+					<spot x="1564.473999" y="2277.253662" z="176.257690"/>
+				</spawn>
+				<spawn npc_id="801440">
+					<spot x="1567.207275" y="2277.335938" z="176.257690"/>
+				</spawn>
+				<!-- Guard -->
+				<spawn npc_id="232319">
+					<spot h="8" z="173.39536" y="2284.137" x="1608.7687"/>
+					<spot h="3" z="174.375" y="2269.3052" x="1592.286"/>
+					<spot h="90" z="174.75" y="2280.746" x="1570.5803"/>
+				</spawn>
+				<spawn npc_id="232320">
+					<spot h="16" z="174.81522" y="2253.023" x="1570.0664"/>
+					<spot h="1" z="174.57993" y="2265.8987" x="1570.7213"/>
+				</spawn>
+				<spawn npc_id="232321">
+					<spot h="12" z="165.52573" y="2291.039" x="1642.4117"/>
+					<spot h="14" z="166.6567" y="2306.9636" x="1634.7101"/>
+					<spot h="10" z="174.45813" y="2257.0847" x="1593.5852"/>
+				</spawn>
+				<spawn npc_id="232322">
+					<spot h="5" z="177.2711" y="2277.95" x="1586.729"/>
+					<spot h="0" z="177.1531" y="2250.0374" x="1588.5562"/>
+				</spawn>
+				<spawn npc_id="232323">
+					<spot h="20" z="175.7193" y="2238.274" x="1571.3954"/>
+					<spot h="5" z="178.73657" y="2253.2961" x="1546.5643"/>
+				</spawn>
+				<!-- Redoubt Pioneers Veteran Combatant -->
+				<spawn npc_id="232498" respawn_time="295">
+					<spot x="1695.5802" y="2380.3704" z="171.50308" h="105"/>
+					<spot x="1702.1525" y="2394.2856" z="171.78691" h="93"/>
+					<spot x="1705.852" y="2375.1304" z="171.625" h="105"/>
+					<spot x="1710.9192" y="2363.715" z="169.76413" h="105"/>
+					<spot x="1711.0145" y="2378.411" z="171.68658" h="105"/>
+					<spot x="1714.3983" y="2392.7917" z="172.44937"/>
+					<spot x="1723.4515" y="2373.4058" z="169.49142" h="105"/>
+				</spawn>
+				<!-- Redoubt Pioneers Veteran Sentry -->
+				<spawn npc_id="232499" respawn_time="295">
+					<spot x="1713.6613" y="2390.045" z="172.23163"/>
+				</spawn>
+				<!-- Redoubt Pioneers Supervisor -->
+				<spawn npc_id="232500" respawn_time="295">
+					<spot x="1698.3912" y="2388.0713" z="171.375" h="105"/>
+				</spawn>
+				<!-- Redoubt Pioneers Veteran Gunslinger -->
+				<spawn npc_id="232501" respawn_time="295">
+					<spot x="1712.1635" y="2365.4348" z="170.09848"/>
+					<spot x="1726.0591" y="2386.2244" z="172.0524" h="113"/>
+					<spot x="1727.6771" y="2388.8901" z="172.69353" h="105"/>
+				</spawn>
+				<!-- Redoubt Scout Envoy -->
+				<spawn npc_id="233200" respawn_time="295">
+					<spot x="1693.5403" y="2344.9387" z="166.23347" h="87"/>
+					<spot x="1709.4995" y="2349.7688" z="166.8461" h="90"/>
+					<spot x="1736.4655" y="2366.4756" z="167.46353" h="80"/>
+					<spot x="1750.0577" y="2393.066" z="171.10954" h="90"/>
+				</spawn>
+				<!-- Asmodians Territory -->
+				<spawn npc_id="801619">
+					<spot x="1544.114" y="2260.9583" z="184.08958"/>
+				</spawn>
+				<!-- Territory Boss -->
+				<spawn npc_id="231649" handler="BOSS">
+					<spot x="1549.8088" y="2263.9612" z="178.87689"/>
+				</spawn>
+				<spawn npc_id="231886" handler="ATTACKER">
+					<spot x="1549.8088" y="2263.9612" z="178.87689"/>
+				</spawn>
+			</simple_race>
+			<simple_race race="NPC">
+				<!-- Guard
+				<spawn npc_id="232414">
+					<spot h="8" z="173.39536" y="2284.137" x="1608.7687"/>
+					<spot h="3" z="174.375" y="2269.3052" x="1592.286"/>
+					<spot h="90" z="174.75" y="2280.746" x="1570.5803"/>
+				</spawn>
+				<spawn npc_id="232415">
+					<spot h="16" z="174.81522" y="2253.023" x="1570.0664"/>
+					<spot h="1" z="174.57993" y="2265.8987" x="1570.7213"/>
+				</spawn>
+				<spawn npc_id="232416">
+					<spot h="12" z="165.52573" y="2291.039" x="1642.4117"/>
+					<spot h="14" z="166.6567" y="2306.9636" x="1634.7101"/>
+					<spot h="10" z="174.45813" y="2257.0847" x="1593.5852"/>
+				</spawn>
+				<spawn npc_id="232417">
+					<spot h="5" z="177.2711" y="2277.95" x="1586.729"/>
+					<spot h="0" z="177.1531" y="2250.0374" x="1588.5562"/>
+				</spawn>
+				<spawn npc_id="232418">
+					<spot h="20" z="175.7193" y="2238.274" x="1571.3954"/>
+					<spot h="5" z="178.73657" y="2253.2961" x="1546.5643"/>
+				</spawn> -->
+				<!-- Redoubt Pioneers Veteran Combatant
+				<spawn npc_id="232681" respawn_time="295">
+					<spot x="1695.5802" y="2380.3704" z="171.50308" h="105"/>
+					<spot x="1702.1525" y="2394.2856" z="171.78691" h="93"/>
+					<spot x="1705.852" y="2375.1304" z="171.625" h="105"/>
+					<spot x="1710.9192" y="2363.715" z="169.76413" h="105"/>
+					<spot x="1711.0145" y="2378.411" z="171.68658" h="105"/>
+					<spot x="1714.3983" y="2392.7917" z="172.44937"/>
+					<spot x="1723.4515" y="2373.4058" z="169.49142" h="105"/>
+				</spawn>
+				<spawn npc_id="232682" respawn_time="295">
+					<spot x="1713.6613" y="2390.045" z="172.23163"/>
+				</spawn>
+				<spawn npc_id="232683" respawn_time="295">
+					<spot x="1698.3912" y="2388.0713" z="171.375" h="105"/>
+				</spawn>
+				<spawn npc_id="232684" respawn_time="295">
+					<spot x="1712.1635" y="2365.4348" z="170.09848"/>
+					<spot x="1726.0591" y="2386.2244" z="172.0524" h="113"/>
+					<spot x="1727.6771" y="2388.8901" z="172.69353" h="105"/>
+				</spawn> -->
+				<!-- Balaur Territory -->
+				<spawn npc_id="801620">
+					<spot x="1544.114" y="2260.9583" z="184.08958"/>
+				</spawn>
+				<!-- Territory Boss -->
+				<spawn npc_id="231650" handler="BOSS">
+					<spot x="1549.8088" y="2263.9612" z="178.87689"/>
+				</spawn>
+				<spawn npc_id="231887" handler="ATTACKER">
+					<spot x="1549.8088" y="2263.9612" z="178.87689"/>
+				</spawn>
+			</simple_race>
+		</base_spawn>
+		<base_spawn id="6057"> <!-- Windswept Camp -->
+			<simple_race race="ELYOS">
+				<spawn npc_id="730658">
+					<spot x="1890.024658" y="1178.159546" z="261.574554"/>
+				</spawn>
+				<spawn npc_id="800718">
+					<spot x="1888.384033" y="1180.865234" z="260.302063"/>
+				</spawn>
+				<spawn npc_id="800719">
+					<spot x="1888.093018" y="1185.495483" z="260.428101"/>
+				</spawn>
+				<spawn npc_id="800721">
+					<spot x="1901.024292" y="1194.445679" z="260.448486"/>
+				</spawn>
+				<spawn npc_id="801237">
+					<spot x="1903.472046" y="1179.804565" z="260.459534"/>
+				</spawn>
+				<spawn npc_id="801443">
+					<spot x="1905.845581" y="1189.350708" z="260.428101"/>
+				</spawn>
+				<spawn npc_id="801447">
+					<spot x="1903.197998" y="1192.216919" z="260.448486"/>
+				</spawn>
+				<!-- Guard -->
+				<spawn npc_id="232229">
+					<spot h="41" z="259.0598" y="1194.757" x="1887.2279"/>
+					<spot h="30" z="254.3017" y="1211.9838" x="1882.7461"/>
+					<spot h="13" z="251.58249" y="1220.68" x="1899.8613"/>
+					<spot h="32" z="251.52844" y="1229.0417" x="1878.3445"/>
+				</spawn>
+				<spawn npc_id="232230">
+					<spot h="44" z="259.5699" y="1191.1182" x="1894.2759"/>
+				</spawn>
+				<spawn npc_id="232231">
+					<spot h="42" z="259.45798" y="1201.5847" x="1894.3296"/>
+				</spawn>
+				<spawn npc_id="232232">
+					<spot h="22" z="262.12106" y="1201.9369" x="1912.9572"/>
+					<spot h="54" z="259.58804" y="1205.157" x="1901.7227"/>
+					<spot h="44" z="259.25" y="1190.2998" x="1881.8055"/>
+				</spawn>
+				<spawn npc_id="232233">
+					<spot h="41" z="259.57138" y="1183.3418" x="1905.8004"/>
+					<spot h="27" z="252.18854" y="1221.9473" x="1888.6882"/>
+				</spawn>
+				<!-- Windswept Pioneers Combatant -->
+				<spawn npc_id="232563" respawn_time="295">
+					<spot x="1773.554" y="1300.0575" z="230.35071" h="30"/>
+					<spot x="1779.4597" y="1291.3112" z="231.25" h="15"/>
+					<spot x="1783.9137" y="1287.1433" z="231.25" h="15"/>
+					<spot x="1793.271" y="1302.5981" z="230.46262" h="15"/>
+				</spawn>
+				<!-- Windswept Pioneers Sentry -->
+				<spawn npc_id="232564" respawn_time="295">
+					<spot x="1792.0803" y="1291.0574" z="231.25502" h="10"/>
+				</spawn>
+				<!-- Windswept Pioneers Supervisor -->
+				<spawn npc_id="232565" respawn_time="295">
+					<spot x="1783.9985" y="1299.3798" z="230.95253" h="27"/>
+				</spawn>
+				<!-- Windswept Scout Envoy -->
+				<spawn npc_id="233220" respawn_time="295">
+					<spot x="1767.3033" y="1323.6007" z="232.56116" h="7"/>
+					<spot x="1774.2489" y="1333.2773" z="230.9704" h="15"/>
+					<spot x="1786.3871" y="1317.8416" z="230.8651" h="15"/>
+					<spot x="1807.3104" y="1303.518" z="233.60344" h="27"/>
+				</spawn>
+				<!-- Elyos Territory -->
+				<spawn npc_id="801621">
+					<spot x="1902.3711" y="1179.6218" z="259.25"/>
+				</spawn>
+				<!-- Territory Boss -->
+				<spawn npc_id="231651" handler="BOSS">
+					<spot x="1895.0594" y="1182.2532" z="259.2658" h="30"/>
+				</spawn>
+				<spawn npc_id="231888" handler="ATTACKER">
+					<spot x="1895.0594" y="1182.2532" z="259.2658" h="30"/>
+				</spawn>
+			</simple_race>
+			<simple_race race="ASMODIANS">
+				<spawn npc_id="730658">
+					<spot x="1890.024658" y="1178.159546" z="261.574554"/>
+				</spawn>
+				<spawn npc_id="800722">
+					<spot x="1888.384033" y="1180.865234" z="260.302063"/>
+				</spawn>
+				<spawn npc_id="800723">
+					<spot x="1888.093018" y="1185.495483" z="260.428101"/>
+				</spawn>
+				<spawn npc_id="800725">
+					<spot x="1901.024292" y="1194.445679" z="260.448486"/>
+				</spawn>
+				<spawn npc_id="801246">
+					<spot x="1903.472046" y="1179.804565" z="260.459534"/>
+				</spawn>
+				<spawn npc_id="801442">
+					<spot x="1905.845581" y="1189.350708" z="260.428101"/>
+				</spawn>
+				<spawn npc_id="801446">
+					<spot x="1903.197998" y="1192.216919" z="260.448486"/>
+				</spawn>
+				<!-- Guard -->
+				<spawn npc_id="232324">
+					<spot h="41" z="259.0598" y="1194.757" x="1887.2279"/>
+					<spot h="30" z="254.3017" y="1211.9838" x="1882.7461"/>
+					<spot h="13" z="251.58249" y="1220.68" x="1899.8613"/>
+					<spot h="32" z="251.52844" y="1229.0417" x="1878.3445"/>
+				</spawn>
+				<spawn npc_id="232325">
+					<spot h="44" z="259.5699" y="1191.1182" x="1894.2759"/>
+				</spawn>
+				<spawn npc_id="232326">
+					<spot h="42" z="259.45798" y="1201.5847" x="1894.3296"/>
+				</spawn>
+				<spawn npc_id="232327">
+					<spot h="22" z="262.12106" y="1201.9369" x="1912.9572"/>
+					<spot h="54" z="259.58804" y="1205.157" x="1901.7227"/>
+					<spot h="44" z="259.25" y="1190.2998" x="1881.8055"/>
+				</spawn>
+				<spawn npc_id="232328">
+					<spot h="41" z="259.57138" y="1183.3418" x="1905.8004"/>
+					<spot h="27" z="252.18854" y="1221.9473" x="1888.6882"/>
+				</spawn>
+				<!-- Windswept Pioneers Combatant -->
+				<spawn npc_id="232502" respawn_time="295">
+					<spot x="1773.554" y="1300.0575" z="230.35071" h="30"/>
+					<spot x="1779.4597" y="1291.3112" z="231.25" h="15"/>
+					<spot x="1783.9137" y="1287.1433" z="231.25" h="15"/>
+					<spot x="1793.271" y="1302.5981" z="230.46262" h="15"/>
+				</spawn>
+				<!-- Windswept Pioneers Sentry -->
+				<spawn npc_id="232503" respawn_time="295">
+					<spot x="1792.0803" y="1291.0574" z="231.25502" h="10"/>
+				</spawn>
+				<!-- Windswept Pioneers Supervisor -->
+				<spawn npc_id="232504" respawn_time="295">
+					<spot x="1783.9985" y="1299.3798" z="230.95253" h="27"/>
+				</spawn>
+				<!-- Windswept Scout Envoy -->
+				<spawn npc_id="233201" respawn_time="295">
+					<spot x="1767.3033" y="1323.6007" z="232.56116" h="7"/>
+					<spot x="1774.2489" y="1333.2773" z="230.9704" h="15"/>
+					<spot x="1786.3871" y="1317.8416" z="230.8651" h="15"/>
+					<spot x="1807.3104" y="1303.518" z="233.60344" h="27"/>
+				</spawn>
+				<!-- Asmodians Territory -->
+				<spawn npc_id="801622">
+					<spot x="1902.3711" y="1179.6218" z="259.25"/>
+				</spawn>
+				<!-- Territory Boss -->
+				<spawn npc_id="231652" handler="BOSS">
+					<spot x="1895.0594" y="1182.2532" z="259.2658" h="30"/>
+				</spawn>
+				<spawn npc_id="231889" handler="ATTACKER">
+					<spot x="1895.0594" y="1182.2532" z="259.2658" h="30"/>
+				</spawn>
+			</simple_race>
+			<simple_race race="NPC">
+				<!-- Guard
+				<spawn npc_id="232419">
+					<spot h="41" z="259.0598" y="1194.757" x="1887.2279"/>
+					<spot h="30" z="254.3017" y="1211.9838" x="1882.7461"/>
+					<spot h="13" z="251.58249" y="1220.68" x="1899.8613"/>
+					<spot h="32" z="251.52844" y="1229.0417" x="1878.3445"/>
+				</spawn>
+				<spawn npc_id="232420">
+					<spot h="44" z="259.5699" y="1191.1182" x="1894.2759"/>
+				</spawn>
+				<spawn npc_id="232421">
+					<spot h="42" z="259.45798" y="1201.5847" x="1894.3296"/>
+				</spawn>
+				<spawn npc_id="232422">
+					<spot h="22" z="262.12106" y="1201.9369" x="1912.9572"/>
+					<spot h="54" z="259.58804" y="1205.157" x="1901.7227"/>
+					<spot h="44" z="259.25" y="1190.2998" x="1881.8055"/>
+				</spawn>
+				<spawn npc_id="232423">
+					<spot h="41" z="259.57138" y="1183.3418" x="1905.8004"/>
+					<spot h="27" z="252.18854" y="1221.9473" x="1888.6882"/>
+				</spawn> -->
+				<!-- Windswept Pioneers Combatant
+				<spawn npc_id="232685" respawn_time="295">
+					<spot x="1773.554" y="1300.0575" z="230.35071" h="30"/>
+					<spot x="1779.4597" y="1291.3112" z="231.25" h="15"/>
+					<spot x="1783.9137" y="1287.1433" z="231.25" h="15"/>
+					<spot x="1793.271" y="1302.5981" z="230.46262" h="15"/>
+				</spawn>
+				<spawn npc_id="232686" respawn_time="295">
+					<spot x="1792.0803" y="1291.0574" z="231.25502" h="10"/>
+				</spawn>
+				<spawn npc_id="232687" respawn_time="295">
+					<spot x="1783.9985" y="1299.3798" z="230.95253" h="27"/>
+				</spawn> -->
+				<!-- Balaur Territory -->
+				<spawn npc_id="801623">
+					<spot x="1902.3711" y="1179.6218" z="259.25"/>
+				</spawn>
+				<!-- Territory Boss -->
+				<spawn npc_id="231653" handler="BOSS">
+					<spot x="1895.0594" y="1182.2532" z="259.2658" h="30"/>
+				</spawn>
+				<spawn npc_id="231890" handler="ATTACKER">
+					<spot x="1895.0594" y="1182.2532" z="259.2658" h="30"/>
+				</spawn>
+			</simple_race>
+		</base_spawn>
+		<base_spawn id="6058"> <!-- Sillus Pass Watchpost -->
+			<simple_race race="ELYOS">
+				<spawn npc_id="730661">
+					<spot x="2483.294678" y="1850.182861" z="327.714630"/>
+				</spawn>
+				<spawn npc_id="800726">
+					<spot x="2485.314209" y="1831.063232" z="327.283722"/>
+				</spawn>
+				<spawn npc_id="800728">
+					<spot x="2503.442383" y="1838.984009" z="326.597015"/>
+				</spawn>
+				<spawn npc_id="800729">
+					<spot x="2479.804932" y="1832.549683" z="327.027100"/>
+				</spawn>
+				<spawn npc_id="801238">
+					<spot x="2488.303955" y="1830.697266" z="327.219971"/>
+				</spawn>
+				<spawn npc_id="801451">
+					<spot x="2482.733398" y="1842.165771" z="327.027100"/>
+				</spawn>
+				<spawn npc_id="801968">
+					<spot x="2490.381104" y="1828.109741" z="326.597015"/>
+				</spawn>
+				<!-- Guard -->
+				<spawn npc_id="232234">
+					<spot h="25" z="325.58618" y="1858.8618" x="2495.3242"/>
+					<spot h="19" z="325.40845" y="1852.9641" x="2502.4631"/>
+					<spot h="24" z="323.0127" y="1863.21" x="2504.6885"/>
+					<spot h="29" z="325.6468" y="1837.7393" x="2481.044"/>
+				</spawn>
+				<spawn npc_id="232235">
+					<spot h="24" z="325.83014" y="1844.6625" x="2494.0552"/>
+				</spawn>
+				<spawn npc_id="232236">
+					<spot h="21" z="325.875" y="1843.798" x="2506.0469"/>
+					<spot h="39" z="325.5" y="1850.2557" x="2484.7622"/>
+				</spawn>
+				<spawn npc_id="232237">
+					<spot h="47" z="327.0008" y="1864.9902" x="2486.032"/>
+					<spot h="25" z="325.22635" y="1854.2665" x="2508.954"/>
+				</spawn>
+				<spawn npc_id="232238">
+					<spot h="50" z="325.63913" y="1856.852" x="2479.7537"/>
+					<spot h="31" z="322.62613" y="1862.4503" x="2508.6309"/>
+					<spot h="37" z="325.625" y="1835.3348" x="2490.0557"/>
+				</spawn>
+				<!-- Pass Pioneers Combatant -->
+				<spawn npc_id="232566" respawn_time="295">
+					<spot x="2481.2375" y="1955.4767" z="311.45255" h="60"/>
+					<spot x="2488.274" y="1937.1406" z="310.875" h="75"/>
+					<spot x="2495.681" y="1948.202" z="310.875" h="60"/>
+					<spot x="2497.0605" y="1937.6244" z="310.875" h="72"/>
+				</spawn>
+				<!-- Pass Pioneers Sentry -->
+				<spawn npc_id="232567" respawn_time="295">
+					<spot x="2483.782" y="1946.5554" z="310.8886" h="90"/>
+				</spawn>
+				<!-- Pass Pioneers Supervisor -->
+				<spawn npc_id="232568" respawn_time="295">
+					<spot x="2489.5505" y="1956.1956" z="310.8872" h="53"/>
+				</spawn>
+				<!-- Pass Scout Envoy -->
+				<spawn npc_id="233221" respawn_time="295">
+					<spot x="2470.7634" y="1971.5789" z="316.32068" h="105"/>
+					<spot x="2475.4377" y="1930.5703" z="310.83984" h="60"/>
+					<spot x="2492.2773" y="1910.6364" z="315.88068" h="105"/>
+					<spot x="2502.2822" y="1976.9579" z="318.9367" h="50"/>
+				</spawn>
+				<!-- Elyos Territory -->
+				<spawn npc_id="801624">
+					<spot x="2492.3337" y="1830.4594" z="325.625"/>
+				</spawn>
+				<!-- Territory Boss -->
+				<spawn npc_id="231654" handler="BOSS">
+					<spot x="2499.259" y="1835.7627" z="325.81384" h="33"/>
+				</spawn>
+				<spawn npc_id="231891" handler="ATTACKER">
+					<spot x="2499.259" y="1835.7627" z="325.81384" h="33"/>
+				</spawn>
+			</simple_race>
+			<simple_race race="ASMODIANS">
+				<spawn npc_id="730660">
+					<spot x="2483.294678" y="1850.182861" z="327.714630"/>
+				</spawn>
+				<spawn npc_id="800730">
+					<spot x="2485.314209" y="1831.063232" z="327.283722"/>
+				</spawn>
+				<spawn npc_id="800732">
+					<spot x="2503.442383" y="1838.984009" z="326.597015"/>
+				</spawn>
+				<spawn npc_id="800733">
+					<spot x="2479.804932" y="1832.549683" z="327.027100"/>
+				</spawn>
+				<spawn npc_id="801247">
+					<spot x="2488.303955" y="1830.697266" z="327.219971"/>
+				</spawn>
+				<spawn npc_id="801450">
+					<spot x="2482.733398" y="1842.165771" z="327.027100"/>
+				</spawn>
+				<spawn npc_id="801969">
+					<spot x="2490.381104" y="1828.109741" z="326.597015"/>
+				</spawn>
+				<!-- Guard -->
+				<spawn npc_id="232329">
+					<spot h="25" z="325.58618" y="1858.8618" x="2495.3242"/>
+					<spot h="19" z="325.40845" y="1852.9641" x="2502.4631"/>
+					<spot h="24" z="323.0127" y="1863.21" x="2504.6885"/>
+					<spot h="29" z="325.6468" y="1837.7393" x="2481.044"/>
+				</spawn>
+				<spawn npc_id="232330">
+					<spot h="24" z="325.83014" y="1844.6625" x="2494.0552"/>
+				</spawn>
+				<spawn npc_id="232331">
+					<spot h="21" z="325.875" y="1843.798" x="2506.0469"/>
+					<spot h="39" z="325.5" y="1850.2557" x="2484.7622"/>
+				</spawn>
+				<spawn npc_id="232332">
+					<spot h="47" z="327.0008" y="1864.9902" x="2486.032"/>
+					<spot h="25" z="325.22635" y="1854.2665" x="2508.954"/>
+				</spawn>
+				<spawn npc_id="232333">
+					<spot h="50" z="325.63913" y="1856.852" x="2479.7537"/>
+					<spot h="31" z="322.62613" y="1862.4503" x="2508.6309"/>
+					<spot h="37" z="325.625" y="1835.3348" x="2490.0557"/>
+				</spawn>
+				<!-- Pass Pioneers Combatant -->
+				<spawn npc_id="232505" respawn_time="295">
+					<spot x="2481.2375" y="1955.4767" z="311.45255" h="60"/>
+					<spot x="2488.274" y="1937.1406" z="310.875" h="75"/>
+					<spot x="2495.681" y="1948.202" z="310.875" h="60"/>
+					<spot x="2497.0605" y="1937.6244" z="310.875" h="72"/>
+				</spawn>
+				<!-- Pass Pioneers Sentry -->
+				<spawn npc_id="232506" respawn_time="295">
+					<spot x="2483.782" y="1946.5554" z="310.8886" h="90"/>
+				</spawn>
+				<!-- Pass Pioneers Supervisor -->
+				<spawn npc_id="232507" respawn_time="295">
+					<spot x="2489.5505" y="1956.1956" z="310.8872" h="53"/>
+				</spawn>
+				<!-- Pass Scout Envoy -->
+				<spawn npc_id="233202" respawn_time="295">
+					<spot x="2470.7634" y="1971.5789" z="316.32068" h="105"/>
+					<spot x="2475.4377" y="1930.5703" z="310.83984" h="60"/>
+					<spot x="2492.2773" y="1910.6364" z="315.88068" h="105"/>
+					<spot x="2502.2822" y="1976.9579" z="318.9367" h="50"/>
+				</spawn>
+				<!-- Asmodians Territory -->
+				<spawn npc_id="801625">
+					<spot x="2492.3337" y="1830.4594" z="325.625"/>
+				</spawn>
+				<!-- Territory Boss -->
+				<spawn npc_id="231655" handler="BOSS">
+					<spot x="2499.259" y="1835.7627" z="325.81384" h="33"/>
+				</spawn>
+				<spawn npc_id="231892" handler="ATTACKER">
+					<spot x="2499.259" y="1835.7627" z="325.81384" h="33"/>
+				</spawn>
+			</simple_race>
+			<simple_race race="NPC">
+				<!-- Guard
+				<spawn npc_id="232424">
+					<spot h="25" z="325.58618" y="1858.8618" x="2495.3242"/>
+					<spot h="19" z="325.40845" y="1852.9641" x="2502.4631"/>
+					<spot h="24" z="323.0127" y="1863.21" x="2504.6885"/>
+					<spot h="29" z="325.6468" y="1837.7393" x="2481.044"/>
+				</spawn>
+				<spawn npc_id="232425">
+					<spot h="24" z="325.83014" y="1844.6625" x="2494.0552"/>
+				</spawn>
+				<spawn npc_id="232426">
+					<spot h="21" z="325.875" y="1843.798" x="2506.0469"/>
+					<spot h="39" z="325.5" y="1850.2557" x="2484.7622"/>
+				</spawn>
+				<spawn npc_id="232427">
+					<spot h="47" z="327.0008" y="1864.9902" x="2486.032"/>
+					<spot h="25" z="325.22635" y="1854.2665" x="2508.954"/>
+				</spawn>
+				<spawn npc_id="232428">
+					<spot h="50" z="325.63913" y="1856.852" x="2479.7537"/>
+					<spot h="31" z="322.62613" y="1862.4503" x="2508.6309"/>
+					<spot h="37" z="325.625" y="1835.3348" x="2490.0557"/>
+				</spawn> -->
+				<!-- Pass Pioneers Combatant
+				<spawn npc_id="232627" respawn_time="295">
+					<spot x="2481.2375" y="1955.4767" z="311.45255" h="60"/>
+					<spot x="2488.274" y="1937.1406" z="310.875" h="75"/>
+					<spot x="2495.681" y="1948.202" z="310.875" h="60"/>
+					<spot x="2497.0605" y="1937.6244" z="310.875" h="72"/>
+				</spawn>
+				<spawn npc_id="232628" respawn_time="295">
+					<spot x="2483.782" y="1946.5554" z="310.8886" h="90"/>
+				</spawn>
+				<spawn npc_id="232629" respawn_time="295">
+					<spot x="2489.5505" y="1956.1956" z="310.8872" h="53"/>
+				</spawn> -->
+				<!-- Balaur Territory -->
+				<spawn npc_id="801626">
+					<spot x="2492.3337" y="1830.4594" z="325.625"/>
+				</spawn>
+				<!-- Territory Boss -->
+				<spawn npc_id="231656" handler="BOSS">
+					<spot x="2499.259" y="1835.7627" z="325.81384" h="33"/>
+				</spawn>
+				<spawn npc_id="231893" handler="ATTACKER">
+					<spot x="2499.259" y="1835.7627" z="325.81384" h="33"/>
+				</spawn>
+			</simple_race>
+		</base_spawn>
+	</spawn_map>
+</spawns>

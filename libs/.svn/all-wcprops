@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/Romanz/dark/!svn/ver/45/trunk/gameserver/libs
+END
+al-commons-1.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/Romanz/dark/!svn/ver/26/trunk/gameserver/libs/al-commons-1.3.jar
+END
+mysql-connector-java-5.1.18.jar
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/Romanz/dark/!svn/ver/13/trunk/gameserver/libs/mysql-connector-java-5.1.18.jar
+END
+joda-time-2.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/Romanz/dark/!svn/ver/13/trunk/gameserver/libs/joda-time-2.1.jar
+END
+c3p0-0.9.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/Romanz/dark/!svn/ver/13/trunk/gameserver/libs/c3p0-0.9.1.1.jar
+END
+junit-4.11.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/Romanz/dark/!svn/ver/13/trunk/gameserver/libs/junit-4.11.jar
+END
+hamcrest-all-1.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/Romanz/dark/!svn/ver/13/trunk/gameserver/libs/hamcrest-all-1.3.jar
+END
+javassist-3.15.0-GA.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/Romanz/dark/!svn/ver/13/trunk/gameserver/libs/javassist-3.15.0-GA.jar
+END
+objenesis-1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/Romanz/dark/!svn/ver/13/trunk/gameserver/libs/objenesis-1.2.jar
+END
+xercesImpl-2.8.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/Romanz/dark/!svn/ver/13/trunk/gameserver/libs/xercesImpl-2.8.1.jar
+END
+guava-13.0.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/Romanz/dark/!svn/ver/13/trunk/gameserver/libs/guava-13.0.1.jar
+END
+commons-io-2.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/Romanz/dark/!svn/ver/13/trunk/gameserver/libs/commons-io-2.4.jar
+END
+jsr305-2.0.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/Romanz/dark/!svn/ver/13/trunk/gameserver/libs/jsr305-2.0.1.jar
+END
+cglib-nodep-2.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/Romanz/dark/!svn/ver/13/trunk/gameserver/libs/cglib-nodep-2.2.jar
+END
+javac.jar
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/Romanz/dark/!svn/ver/13/trunk/gameserver/libs/javac.jar
+END
+logback-classic-1.0.9.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/Romanz/dark/!svn/ver/13/trunk/gameserver/libs/logback-classic-1.0.9.jar
+END
+jsr166-1.0.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/Romanz/dark/!svn/ver/13/trunk/gameserver/libs/jsr166-1.0.0.jar
+END
+bonecp-0.7.1.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/Romanz/dark/!svn/ver/13/trunk/gameserver/libs/bonecp-0.7.1.RELEASE.jar
+END
+java-json.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/Romanz/dark/!svn/ver/45/trunk/gameserver/libs/java-json.jar
+END
+quartz-2.1.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/Romanz/dark/!svn/ver/13/trunk/gameserver/libs/quartz-2.1.7.jar
+END
+lambdaj-2.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/Romanz/dark/!svn/ver/13/trunk/gameserver/libs/lambdaj-2.4.jar
+END
+logback-core-1.0.9.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/Romanz/dark/!svn/ver/13/trunk/gameserver/libs/logback-core-1.0.9.jar
+END
+trove4j-3.0.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/Romanz/dark/!svn/ver/13/trunk/gameserver/libs/trove4j-3.0.3.jar
+END
+commons-lang-2.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/Romanz/dark/!svn/ver/13/trunk/gameserver/libs/commons-lang-2.6.jar
+END
+slf4j-api-1.6.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/Romanz/dark/!svn/ver/13/trunk/gameserver/libs/slf4j-api-1.6.4.jar
+END
+javolution-5.5.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/Romanz/dark/!svn/ver/13/trunk/gameserver/libs/javolution-5.5.1.jar
+END

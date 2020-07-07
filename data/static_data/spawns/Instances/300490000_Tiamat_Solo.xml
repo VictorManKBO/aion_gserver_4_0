@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- Dragon Lord Sanctuary Solo 3.5 -->
+<spawns>
+ 	<spawn_map map_id="300490000">
+   <!-- kahrun -->
+	<spawn npc_id="800431">
+        <spot x="504.125" y="514.26" z="417.404" h="60"/>
+    </spawn>
+	<!-- tiamat -->
+	<spawn npc_id="800386">
+        <spot x="480.937" y="514.571" z="417.404"/>
+    </spawn>
+	<!-- blood-red jewel -->
+	<spawn npc_id="730691">
+        <spot x="503.219757" y="516.651733" z="243.482681" static_id="4"/>
+    </spawn>
+	<!-- tiamat aetheric field -->
+	<spawn npc_id="730694">
+		<spot x="436.7526" y="513.8103" z="420.6662" static_id="14"/>
+	</spawn>
+	<!-- siel's relics -->
+	<spawn npc_id="701502">
+		<spot x="456.121735" y="514.561768" z="437.353424" static_id="96"/>
+	</spawn>
+	<!-- marchutan -->
+	<spawn npc_id="800358">
+        <spot x="504.8283" y="510.48285" z="417.404" h="60"/>
+    </spawn>
+	<!-- kaisinel -->
+	<spawn npc_id="800352">
+        <spot x="504.8283" y="519.68285" z="417.404" h="60"/>
+    </spawn>
+	</spawn_map>
+</spawns>

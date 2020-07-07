@@ -1,0 +1,269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/old
+END
+Rev 4320 - players.sql
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/old/Rev%204320%20-%20players.sql
+END
+Rev 3674 - player_motions.sql
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/old/Rev%203674%20-%20player_motions.sql
+END
+Rev 5909 - drop.sql
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/old/Rev%205909%20-%20drop.sql
+END
+Rev 3759 - reward_service.sql
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/old/Rev%203759%20-%20reward_service.sql
+END
+Rev 2861 - player_appearance.sql
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/old/Rev%202861%20-%20player_appearance.sql
+END
+Rev 3692 - player_emotions.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/old/Rev%203692%20-%20player_emotions.sql
+END
+Rev 1088 - name_lenght.sql
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/old/Rev%201088%20-%20name_lenght.sql
+END
+Rev 5441 - players transfer.sql
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/old/Rev%205441%20-%20players%20transfer.sql
+END
+Rev 5607 - wedding.sql
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/old/Rev%205607%20-%20wedding.sql
+END
+Rev 3002- player_quests.sql
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/old/Rev%203002-%20player_quests.sql
+END
+Rev 2769 - player_skills.sql
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/old/Rev%202769%20-%20player_skills.sql
+END
+Rev 2925 - craft_cooldowns.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/old/Rev%202925%20-%20craft_cooldowns.sql
+END
+Rev 2488 - player_cooldowns.sql
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/old/Rev%202488%20-%20player_cooldowns.sql
+END
+Rev 1134 - old names.sql
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/old/Rev%201134%20-%20old%20names.sql
+END
+Rev 3532 - annoucements.sql
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/old/Rev%203532%20-%20annoucements.sql
+END
+Rev 5086 - player_punishments.sql
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/old/Rev%205086%20-%20player_punishments.sql
+END
+Rev 5747 - player_vars.sql
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/old/Rev%205747%20-%20player_vars.sql
+END
+Rev 5780 - character_passkey.sql
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/old/Rev%205780%20-%20character_passkey.sql
+END
+Rev 4852 - quest_expand.sql
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/old/Rev%204852%20-%20quest_expand.sql
+END
+Rev 4937 - inventory.sql
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/old/Rev%204937%20-%20inventory.sql
+END
+Rev 2252 - update_bind_points.sql
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/old/Rev%202252%20-%20update_bind_points.sql
+END
+Rev 5949 - pet moods.sql
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/old/Rev%205949%20-%20pet%20moods.sql
+END
+Rev 3403  - guides.sql
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/old/Rev%203403%20%20-%20guides.sql
+END
+Rev 3223 - surveys.sql
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/old/Rev%203223%20-%20surveys.sql
+END
+Rev 2987 - player_quests.sql
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/old/Rev%202987%20-%20player_quests.sql
+END
+skill_motions.sql
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/old/skill_motions.sql
+END
+Rev 4815 - cube_expand.sql
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/old/Rev%204815%20-%20cube_expand.sql
+END
+Rev 1156 - name lenght.sql
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/old/Rev%201156%20-%20name%20lenght.sql
+END
+Rev 1372 - soul_sickness.sql
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/old/Rev%201372%20-%20soul_sickness.sql
+END
+Rev 4655 - players.sql
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/old/Rev%204655%20-%20players.sql
+END
+Rev 3478 - legion.sql
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/old/Rev%203478%20-%20legion.sql
+END
+Rev 2802 - guilds.sql
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/old/Rev%202802%20-%20guilds.sql
+END
+Rev 3319 - player_pets.sql
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/old/Rev%203319%20-%20player_pets.sql
+END
+Rev 3815 - player_pets.sql
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/old/Rev%203815%20-%20player_pets.sql
+END
+Rev 4657 - guild_quest.sql
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/old/Rev%204657%20-%20guild_quest.sql
+END
+Rev 3693 - player_pets.sql
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/old/Rev%203693%20-%20player_pets.sql
+END
+Rev 2941 - abyss_rank.sql
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/old/Rev%202941%20-%20abyss_rank.sql
+END
+Rev 6370 - abyss_xform.sql
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/old/Rev%206370%20-%20abyss_xform.sql
+END
+Rev 2217 - player_bind_point.sql
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/old/Rev%202217%20-%20player_bind_point.sql
+END
+Rev 4856 - mail_fix.sql
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/old/Rev%204856%20-%20mail_fix.sql
+END
+Rev 2160 - spawn_structure.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/old/Rev%202160%20-%20spawn_structure.sql
+END
+Rev 2149 - timestamp #157.sql
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/old/Rev%202149%20-%20timestamp%20%23157.sql
+END
+Rev 5490 - spawns cosmetic.sql
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/old/Rev%205490%20-%20spawns%20cosmetic.sql
+END
+Rev 5502 - spawns_loc.sql
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/Romanz/dark/!svn/ver/13/trunk/gameserver/sql/updates/old/Rev%205502%20-%20spawns_loc.sql
+END

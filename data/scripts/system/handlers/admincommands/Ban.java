@@ -1,0 +1,104 @@
+package admincommands;
+
+import java.util.Iterator;
+
+import com.aionemu.gameserver.services.MuiService;
+import com.aionemu.commons.database.dao.DAOManager;
+import com.aionemu.gameserver.dao.PlayerDAO;
+import com.aionemu.gameserver.model.gameobjects.player.Player;
+import com.aionemu.gameserver.network.loginserver.LoginServer;
+import com.aionemu.gameserver.utils.PacketSendUtility;
+import com.aionemu.gameserver.utils.Util;
+import com.aionemu.gameserver.utils.chathandlers.AdminCommand;
+import com.aionemu.gameserver.world.World;
+
+/**
+ * @author Watson
+ * @modifier Ada and DeathMagnestic
+ */
+public class Ban extends AdminCommand {
+
+	public Ban() {
+		super("ban");
+	}
+
+	@Override
+	public void execute(Player admin, String... params) {
+		if (params == null || params.length < 1) {
+			PacketSendUtility.sendMessage(admin, "Syntax: //ban <player> [account|ip|full] [time in minutes] [reason]");
+			return;
+		}
+
+		// We need to get player's account ID
+		String name = Util.convertName(params[0]);
+		int accountId = 0;
+		String accountIp = "";
+
+		// First, try to find player in the World
+		Player player = World.getInstance().findPlayer(name);
+		if (player != null) {
+			accountId = player.getClientConnection().getAccount().getId();
+			accountIp = player.getClientConnection().getIP();
+		}
+
+		// Second, try to get account ID of offline player from database
+		if (accountId == 0)
+			accountId = DAOManager.getDAO(PlayerDAO.class).getAccountIdByName(name);
+
+		// Third, fail
+		if (accountId == 0) {
+			PacketSendUtility.sendMessage(admin, "Player " + name + " was not found!");
+			PacketSendUtility.sendMessage(admin, "Syntax: //ban <player> [account|ip|full] [time in minutes] [reason]");
+			return;
+		}
+
+		byte type = 3; // Default: full
+		if (params.length > 1) {
+			// Smart Matching
+			String stype = params[1].toLowerCase();
+			if (("account").startsWith(stype))
+				type = 1;
+			else if (("ip").startsWith(stype))
+				type = 2;
+			else if (("full").startsWith(stype))
+				type = 3;
+			else {
+				PacketSendUtility.sendMessage(admin, "Syntax: //ban <player> [account|ip|full] [time in minutes] [reason]");
+				return;
+			}
+		}
+
+		int time = 0; // Default: infinity
+		if (params.length > 2) {
+			try {
+				time = Integer.parseInt(params[2]);
+			}
+			catch (NumberFormatException e) {
+				PacketSendUtility.sendMessage(admin, "Syntax: //ban <player> [account|ip|full] [time in minutes] [reason]");
+				return;
+			}
+		}
+		if (time == 0) {
+		   time = 60 * 24 * 365 * 10; //pseudo infinity. TODO: rework
+		}
+		
+		String reason = Util.convertName(params[3]);
+		for(int itr = 4; itr < params.length; itr++)
+		reason += " "+params[itr];
+
+		LoginServer.getInstance().sendBanPacket(type, accountId, accountIp, time, admin.getObjectId());
+		
+		PacketSendUtility.sendMessage(admin, MuiService.getInstance().getMessage("PLAYER") + name + MuiService.getInstance().getMessage("BAN") + (time != 0 ? MuiService.getInstance().getMessage("ON") + time + MuiService.getInstance().getMessage("MINUTES") : ""));
+		
+		Iterator<Player> iter = World.getInstance().getPlayersIterator();
+
+		while (iter.hasNext()) {
+			PacketSendUtility.sendBrightYellowMessageOnCenter(iter.next(), MuiService.getInstance().getMessage("PLAYER") + name + MuiService.getInstance().getMessage("BAN") + (time != 0 ? MuiService.getInstance().getMessage("ON") + time + MuiService.getInstance().getMessage("MINUTES") : "") + MuiService.getInstance().getMessage("REASON") + reason + "." + MuiService.getInstance().getMessage("GAVE") + admin + "");
+		}
+	}
+
+	@Override
+	public void onFail(Player player, String message) {
+		PacketSendUtility.sendMessage(player, "Syntax: //ban <player> [account|ip|full] [time in minutes] [reason]");
+	}
+}

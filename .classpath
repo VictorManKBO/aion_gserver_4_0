@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="classes" path="src"/>
+	<classpathentry kind="var" path="JRE_LIB" sourcepath="JRE_SRC"/>
+	<classpathentry kind="lib" path="F:/workspace/GameServer/libs/al-commons-1.3.jar"/>
+	<classpathentry kind="lib" path="F:/workspace/GameServer/libs/bonecp-0.7.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/workspace/GameServer/libs/c3p0-0.9.1.1.jar"/>
+	<classpathentry kind="lib" path="F:/workspace/GameServer/libs/cglib-nodep-2.2.jar"/>
+	<classpathentry kind="lib" path="F:/workspace/GameServer/libs/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="F:/workspace/GameServer/libs/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="F:/workspace/GameServer/libs/guava-13.0.1.jar"/>
+	<classpathentry kind="lib" path="F:/workspace/GameServer/libs/hamcrest-all-1.3.jar"/>
+	<classpathentry kind="lib" path="F:/workspace/GameServer/libs/java-json.jar"/>
+	<classpathentry kind="lib" path="F:/workspace/GameServer/libs/javac.jar"/>
+	<classpathentry kind="lib" path="F:/workspace/GameServer/libs/javassist-3.15.0-GA.jar"/>
+	<classpathentry kind="lib" path="F:/workspace/GameServer/libs/javolution-5.5.1.jar"/>
+	<classpathentry kind="lib" path="F:/workspace/GameServer/libs/joda-time-2.1.jar"/>
+	<classpathentry kind="lib" path="F:/workspace/GameServer/libs/jsr166-1.0.0.jar"/>
+	<classpathentry kind="lib" path="F:/workspace/GameServer/libs/jsr305-2.0.1.jar"/>
+	<classpathentry kind="lib" path="F:/workspace/GameServer/libs/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="F:/workspace/GameServer/libs/lambdaj-2.4.jar"/>
+	<classpathentry kind="lib" path="F:/workspace/GameServer/libs/logback-classic-1.0.9.jar"/>
+	<classpathentry kind="lib" path="F:/workspace/GameServer/libs/logback-core-1.0.9.jar"/>
+	<classpathentry kind="lib" path="F:/workspace/GameServer/libs/mysql-connector-java-5.1.18.jar"/>
+	<classpathentry kind="lib" path="F:/workspace/GameServer/libs/objenesis-1.2.jar"/>
+	<classpathentry kind="lib" path="F:/workspace/GameServer/libs/quartz-2.1.7.jar"/>
+	<classpathentry kind="lib" path="F:/workspace/GameServer/libs/slf4j-api-1.6.4.jar"/>
+	<classpathentry kind="lib" path="F:/workspace/GameServer/libs/trove4j-3.0.3.jar"/>
+	<classpathentry kind="lib" path="F:/workspace/GameServer/libs/xercesImpl-2.8.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
