@@ -1258,13 +1258,17 @@ public class Player extends Creature {
 	public boolean canSee(Creature creature) {
 		if (creature.isInVisualState(CreatureVisualState.BLINKING))
 			return true;
-
+		
 		if (creature instanceof Player && isInSameTeam((Player) creature))
 			return true;
 
 		if (creature instanceof Trap && ((Trap) creature).getCreator().getObjectId() == this.getObjectId())
 			return true;
-
+		
+		//Пофиксил портал в панду у мага
+		if (creature.getVisualState() >= CreatureVisualState.HIDE10.getId())
+			return true;
+		
 		return creature.getVisualState() <= getSeeState();
 	}
 
