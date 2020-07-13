@@ -80,6 +80,8 @@ public class _2042TheLastCheckpoint extends QuestHandler {
 						case FINISH_DIALOG: {
 							return defaultCloseDialog(env, 0, 0);
 						}
+						default:
+							break;
 					}
 					break;
 				}
@@ -122,6 +124,8 @@ public class _2042TheLastCheckpoint extends QuestHandler {
 						case FINISH_DIALOG: {
 							return defaultCloseDialog(env, 9, 9);
 						}
+						default:
+							break;
 					}
 				}
 			}
